@@ -1,0 +1,173 @@
+           Hydraulic Fracturing Fluid Product Component Information Disclosure
+
+                              Job Start Date:                                   5/24/2013
+
+                               Job End Date:                                    5/29/2013
+
+                                        State:                                    Montana
+
+                                      County:                                     Richland
+
+                                 API Number:                         25-083-23116-00-00
+
+                             Operator Name:                            Whiting Petroleum
+
+                    Well Name and Number:                                SKOV 31-28-1H
+
+                                   Longitude:                              -104.10290072
+
+                                     Latitude:                               47.89604928
+
+                                       Datum:                                      NAD27
+
+                         Federal/Tribal Well:                                           NO
+
+            Total Base Water Volume (gal):                                      1,782,908
+
+             Total Base Non Water Volume:
+
+           Hydraulic Fracturing Fluid Composition:
+
+                                                                                                      AbsCt(NrChauecAmmtSSbice#ear)rlviceC(o%nIMncAbgaedyrxndeimtmidrtaiiavuetseimnostn)*i*nMaximum
+
+                                                                                                                                              Ingredient
+
+              Trade Name             Supplier            Purpose                 Ingredients                                              Concentration in           Comments
+
+                                                                                                                                               HF Fluid
+
+                                                                                                                                            (% by mass)**
+
+           Ingredients shown above are subject to29CFR 1910.1200(i) and appear on Material Safety DataSheets (MSDS). Ingredients shown below are Non-MSDS.
+
+          YF125FlexD,          Schlumberger        Bactericide (Myacide
+
+          Slickwater                               GA25), Friction
+
+                                                   Reducer,
+
+                                                   Multifunctional Additive
+
+                                                   B392, Stabilizing
+
+                                                   Agent, Breaker,
+
+                                                   Gelling Agent,
+
+                                                   Crosslinker, Scale
+
+                                                   Inhibitor,
+
+                                                                        Water (Including MixWater    NA                                              81.46253
+
+                                                                        Supplied by Client)*
+
+                                                                        Crystalline silica           14808-60-7                   96.25091           17.84248
+
+                                                                        Guar gum                     9000-30-0                     1.14299            0.21188
+
+                                                                        Ethane-1,2-diol              107-21-1                      0.58438            0.10833
+
+                                                                        Cholinium chloride           67-48-1                       0.43348            0.08036
+
+                                                                        Sodium hydroxide             1310-73-2                     0.32183            0.05966
+
+                                                                        2,2`,2"-nitrilotriethanol    102-71-6                      0.17426            0.03230
+
+                                                                        Propan-2-ol                  67-63-0                       0.16303            0.03022
+
+                                                                        Gum, xanthan                 11138-66-2                    0.08347            0.01547
+
+                                                                        Glycerol                     56-81-5                       0.05374            0.00996
+
+                                                                        Sodium tetraborate           1330-43-4                     0.05343            0.00990
+
+                                                                        Sodium bromate               7789-38-0                     0.05169            0.00958
+
+                                                                        Urea                         57-13-6                       0.05088            0.00943
+                                                                        Crosslinked PO/EO-block      68123-18-2                    0.04861            0.00901
+
+                                                                        polymer
+
+                                                                        Diammonium peroxidisulphate  7727-54-0                     0.04808            0.00891
+
+                                                                        Polyethylene glycol monohexyl31726-34-8                    0.04274            0.00792
+
+                                                                        ether
+
+                                                                        Glutaraldehyde               111-30-8                      0.02552            0.00473
+
+                                                                        Alkyl (c10-c14) alcohols,    66455-15-0                    0.01619            0.00300
+
+                                                                        ethoxylated
+
+                                                                        Alcohol, C11-14, ethoxylated 78330-21-9                    0.01615            0.00299
+
+                                                                        Methyl oxirane polymer with  9003-11-6                     0.01601            0.00297
+
+                                                                        oxirane
+
+                                                                        Calcium magnesium sodium     65997-18-4                    0.01181            0.00219
+
+                                                                        phosphate frit
+
+                                                                        Vinylidene                   25038-72-6                    0.01142            0.00212
+
+                                                                        chloride/methylacrylate
+
+                                                                        copolymer
+
+                                                                        Acrylamide sodium acrylate   25085-02-3                    0.01039            0.00193
+
+                                                                        copolymer
+
+                                                                        Distillates (petroleum),     64742-47-8                    0.00903            0.00167
+
+                                                                        hydrotreated light
+
+                                                                        Dioctyl sulfosuccinate sodium577-11-7                      0.00756            0.00140
+
+                                                                        salt
+
+                                                                        Non-crystalline silica       7631-86-9                     0.00311            0.00058
+
+                                                                        Dicoco dimethyl quaternary   61789-77-3                    0.00193            0.00036
+
+                                                                        ammonium chloride
+
+                                                                        Propylene glycol             57-55-6                       0.00162            0.00030
+
+                                                                        Magnesium silicate hydrate (talc)14807-96-6                0.00060            0.00011
+
+                                                                        Alkylalcohol, ethoxylate >C1068002-97-1                    0.00055            0.00010
+
+                                                                        Sorbitan monooleate          1338-43-8                     0.00044            0.00008
+
+                                                                        Thiocyanic acid, ammonium salt 1762-95-4                   0.00027            0.00005
+
+                                                                        Poly(oxyethylene) sorbitol   9005-67-8                     0.00026            0.00005
+
+                                                                        monostearate
+
+                                                                        2-ethylhexan-1-ol            104-76-7                      0.00022            0.00004
+
+                                                                        Oleic acid                   112-80-1                      0.00009            0.00002
+
+                                                                        Potassium oleate             143-18-0                      0.00011            0.00002
+
+                                                                        Acetic acid, potassium salt  127-08-2                      0.00002
+
+                                                                        Acetic acid                  64-19-7
+
+                                                                        Tetrasodium                  64-02-8
+
+                                                                        ethylenediaminetetraacetate
+
+           * Total Water Volume sources may include fresh water, produced water, and/or recycled water
+
+           ** Information is based on the maximum potential for concentration and thus the total may be over 100%
+
+           Note: For Field Development Products (products that begin with FDP), MSDS level only information has been provided.
+
+           Ingredient information for chemicals subject to 29 CFR 1910.1200(i) and Appendix D are obtained from suppliers Material Safety Data Sheets (MSDS)
+

@@ -1,0 +1,184 @@
+           Hydraulic Fracturing             Fluid Product Component                   Information         Disclosure
+
+                            Fracture Date              2012-11-29
+
+                                    State:          North Dakota
+
+                                  County:                Mountrail
+
+                            API Number:               3306102189
+
+                         Operator Name:     WHITING OIL & GAS
+
+                                                    CORP - EBUS
+
+               Well Name and Number:                    Bartleson
+
+                                                       13-18-2TFX
+
+                               Longitude:                  -102.57
+
+                                 Latitude:                   48.07
+
+                    Long/Lat Projection:                    NAD83
+
+                       Production Type:                         Oil
+
+             True Vertical Depth (TVD):                     10,369
+
+             Total Water Volume (gal)*:                  1,094,737
+
+           Hydraulic Fracturing Fluid Composition:
+
+            Trade Name         Supplier           Purpose                      Ingredients                      Chemical              Maximum             Maximum             Comments
+
+                                                                                                           Abstract Service           Ingredient          Ingredient
+
+                                                                                                            Number (CAS #)          Concentratio        Concentratio
+
+                                                                                                                                    n in Additive       n in HF Fluid
+
+                                                                                                                                   (% by mass)**        (% by mass)**
+
+           Fresh Water         Operator                                                                                                100.00%           82.41057%          Density = 8.330
+
+           SAND -              Halliburton  Proppant                 Crystalline silica, quartz            14808-60-7                  100.00%           16.84969%
+
+           PREMIUM
+
+           WHITE
+
+           MO-67               Halliburton  pH Control Additive      Sodium hydroxide                      1310-73-2                    30.00%            0.02128%
+
+           CL-31               Halliburton  Crosslinker              Potassium hydroxide                   1310-58-3                      5.00%           0.00460%
+
+           CROSSLINKER
+
+                                                                     Potassium metaborate                  13709-94-9                   60.00%            0.05519%
+
+           CL-37M              Halliburton  Crosslinker              Glycerine                             56-81-5                      10.00%            0.00190%
+
+           Crosslinker
+
+                                                                     Methanol                              67-56-1                      60.00%            0.01142%
+
+                                                                     Propanol                              71-23-8                      10.00%            0.00190%
+
+                                                                     Triethanolamine zirconate             101033-44-7                  60.00%            0.01142%
+
+           VICON NF            Halliburton  Breaker                  Chlorous acid, sodium salt            7758-19-2                    10.00%            0.02002%
+
+           BREAKER
+                                                                     Sodium chloride                       7647-14-5                    30.00%            0.06007%
+
+           CLA-WEB             Halliburton  Additive                 Ammonium salt                         Confidential Business        50.00%            0.02628%
+
+                                                                                                           Information
+
+           FR-66               Halliburton  Friction Reducer         Hydrotreated light petroleum          64742-47-8                   30.00%            0.00405%
+
+                                                                     distillate
+
+           LoSurf-300D         Halliburton  Non-ionic Surfactant     1,2,4 Trimethylbenzene                95-63-6                        1.00%           0.00072%
+
+                                                                     Ethanol                               64-17-5                      60.00%            0.04310%
+
+                                                                     Heavy aromatic petroleum              64742-94-5                   30.00%            0.02155%
+
+                                                                     naphtha
+
+                                                                     Naphthalene                           91-20-3                        5.00%           0.00359%
+
+                                                                     Poly(oxy-1,2-ethanediyl),             127087-87-0                    5.00%           0.00359%
+
+                                                                     alpha-(4-nonylphenyl)-omega-hydr
+
+                                                                     oxy-, branched
+
+           CAT-3               Halliburton  Activator                EDTA/Copper chelate                   Confidential Business        30.00%            0.01281%
+
+           ACTIVATOR                                                                                       Information
+
+           WG-18 GELLING       Halliburton  Gelling Agent            Guar gum derivative                   Confidential Business       100.00%            0.17080%
+
+           AGENT                                                                                           Information
+
+           SP BREAKER          Halliburton  Breaker                  Sodium persulfate                     7775-27-1                   100.00%            0.00443%
+
+           OptiKleen-WF        Halliburton  Concentrate              Sodium perborate tetrahydrate         10486-00-7                  100.00%            0.00146%
+
+           GBW-30              Halliburton  Breaker                  Hemicellulase enzyme                  9012-54-8                    15.00%            0.00004%
+
+           BREAKER
+
+                                                                     Carbohydrates                         Confidential Business        95.00%            0.00027%
+
+                                                                                                           Information
+
+           Ingredients Listed Below This Line Are Part of the Fluid Composition Provided by Halliburton Which Do Not Appear On the Material Safety Data Sheets (MSDS)
+
+                                                                     Alcohols, C12-16, ethoxylated         68551-12-2
+
+                                                                     Amine Salts                           Confidential Business
+
+                                                                                                           Information
+
+                                                                     Amine Salts                           Confidential Business
+
+                                                                                                           Information
+
+                                                                     Ammonium chloride                     12125-02-9
+
+                                                                     Oxyalkylated Phenolic Resin           Confidential Business
+
+                                                                                                           Information
+
+                                                                     Oxyalkylated Phenolic Resin           Confidential Business
+
+                                                                                                           Information
+
+                                                                     Polyacrylamide Copolymer              Confidential Business
+
+                                                                                                           Information
+
+                                                                     Quaternary Amine                      Confidential Business
+
+                                                                                                           Information
+
+                                                                     Quaternary Amine                      Confidential Business
+
+                                                                                                           Information
+
+                                                                     Quaternary Amine                      Confidential Business
+
+                                                                                                           Information
+
+                                                                     Silica, amorphous - fumed             7631-86-9
+
+                                                                     Sodium bicarbonate                    144-55-8
+
+                                                                     Sodium chloride                       7647-14-5
+                                                                     Sodium sulfate                        7757-82-6
+
+                                                                     Sorbitan monooleate                   9005-65-6
+
+                                                                     polyoxyethylene derivative
+
+                                                                     Sorbitan, mono-9-octadecenoate,       1338-43-8
+
+                                                                     (Z)
+
+                                                                     Tall oil acid diethanolamide          68155-20-4
+
+                                                                     Water                                 7732-18-5
+
+           * Total Water Volume sources may include fresh water, produced water, and/or recycled water                                                                                       _
+
+           ** Information is based on the maximum potential for concentration and thus the total may be over 100%
+
+           Note: For Field Development Products (products that begin with FDP), MSDS level only information has been provided.
+
+                                                                                                                                                                                            v2.0
+
+           Ingredient information for chemicals subject to 29 CFR 1910.1200(i) and Appendix D are obtained from suppliers Material                       Safety   Data  Sheets   (MSDS)
+

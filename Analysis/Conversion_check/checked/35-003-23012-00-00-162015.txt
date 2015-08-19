@@ -1,0 +1,137 @@
+           Hydraulic Fracturing Fluid Product Component Information Disclosure
+
+                              Job Start Date:                                   11/6/2014
+
+                               Job End Date:                                    11/8/2014
+
+                                        State:                                  Oklahoma
+
+                                      County:                                        Alfalfa
+
+                                 API Number:                         35-003-23012-00-00
+
+                             Operator Name:                            SandRidge Energy
+
+                    Well Name and Number:                           Burleson 2611 2-19H
+
+                                   Longitude:                               -98.41832693
+
+                                     Latitude:                               36.72401046
+
+                                       Datum:                                      NAD27
+
+                         Federal/Tribal Well:                                           NO
+
+                         True Vertical Depth:                                        5,713
+
+            Total Base Water Volume (gal):                                      3,114,846
+
+             Total Base Non Water Volume:                                                 0
+
+           Hydraulic Fracturing Fluid Composition:
+
+                                                                                                      AbsCtN(rChauecAmmtSSbice#ea)rrlviceC(o%nIMncAbgaedyrxndeitmmidrtaiiavuetseimnostn)*i*nMaximum
+
+                                                                                                                                              Ingredient
+
+              Trade Name             Supplier            Purpose                 Ingredients                                               Concentration in          Comments
+
+                                                                                                                                               HF Fluid
+
+                                                                                                                                            (% by mass)**
+
+           Water               Archer               Carrier/Base Fluid
+
+                                                                        Water                         7732-18-5                  100.00000           94.67576None
+
+           Sand (Proppant)     Archer               Proppant
+
+                                                                        Silica Substrate              NA                         100.00000            4.51194None
+
+           Hydrochloric Acid   Archer               Acidizing
+
+           (15%)
+
+                                                                        Hydrochloric Acid             7647-01-0                   15.00000            0.10973None
+
+                                                                        Methyl Alcohol                67-56-1                     80.00000            0.00091None
+
+                                                                        thiourea-formaldehyde         68527-49-1                  15.00000            0.00017None
+
+                                                                        copolymer
+
+                                                                        NONYL PHENOL, 4 MOL           104-40-5                    10.00000            0.00007None
+
+           AIC                 Archer               Liquid Acid Iron
+
+                                                    Control
+
+                                                                        Acetic Acid                   64-19-7                     50.00000            0.00203None
+
+                                                                        Citric Acid                   77-92-9                     30.00000            0.00122None
+
+           DiKlor              Sabre Energy ServicesOxidizer
+
+                                                                        Chlorine Dioxide              10069-04-4                    0.40000           0.00038
+
+                                                                        Water                         7732-18-5                   99.90000            0.00025
+
+           Ingredients shown above are subject to 29 CFR 1910.1200(i) andappear on Material Safety DataSheets (MSDS). Ingredients shown below are Non-MSDS.
+
+                                                    Other Chemicals
+
+                                                                        Water                        7732-18-5                                        0.03907
+                                                                        Anionic Polymer              N/A                                              0.01953
+
+                                                                        Aliphatic Hydrocarbon        64742-47-8                                       0.01953
+
+                                                                        Water                        7732-18-5                                        0.00878
+
+                                                                        Polyol Ester                 N/A                                              0.00326
+
+                                                                        Oxyalkylated Alcohol         68002-97-1                                       0.00326
+
+                                                                        Sodium Salt of Phosphate Ester68131-72-6                                      0.00146
+
+                                                                        Acrylic Polymer              28205-96-1                                       0.00146
+
+                                                                        Water                        7732-18-5                                        0.00142
+
+                                                                        Polyglycol Ester             N/A                                              0.00065
+
+                                                                        WATER                        7732-18-5                                        0.00041
+
+                                                                        TRADE SECRET                 N/A                                              0.00027
+
+                                                                        Alcohol Ethoxylate SurfactantsN/A                                             0.00017
+
+                                                                        n-olefins                    N/A                                              0.00009
+
+                                                                        ISOPROPANOL                  67-63-0                                          0.00007
+
+                                                                        METHANOL                     67-56-1                                          0.00007
+
+                                                                        Propargyl Alcohol            107-19-7                                         0.00007
+
+                                                                        Tetrasodium                  64-02-8                                          0.00007
+
+                                                                        Ethylenediaminetetraacetate
+
+                                                                        Cinnamic Aldehyde            104-55-2
+
+                                                                        Buffer                       N/A
+
+                                                                        Acetic Acid                  64-19-7
+
+                                                                        Water                        7732-18-5
+
+                                                                        Surfactant                   N/A
+
+           * Total Water Volume sources may include fresh water, produced water, and/or recycled water
+
+           ** Information is based on the maximum potential for concentration and thus the total may be over 100%
+
+           Note: For Field Development Products (products that begin with FDP), MSDS level only information has been provided.
+
+           Ingredient information for chemicals subject to 29 CFR 1910.1200(i) and Appendix D are obtained from suppliers MaterialSafetyDataSheets(MSDS)
+

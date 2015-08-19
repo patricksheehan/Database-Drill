@@ -1,0 +1,154 @@
+           Hydraulic Fracturing Fluid                 Product Component                Information        Disclosure
+
+                                 Fracture Date                    11/6/2012
+
+                                          State:             North Dakota
+
+                                       County:                        Stark
+
+                                  API Number:                33-089-00716
+
+                              Operator Name:         Whiting Oil and Gas
+
+                     Well Name and Number:                Hecker 11-18PH
+
+                                    Longitude:                      -103.22
+
+                                      Latitude:                       46.94
+
+                         Long/Lat Projection:                       NAD27
+
+                             Production Type:                            Oil
+
+                  True Vertical Depth (TVD):
+
+                  Total Water Volume (gal)*:                       1515040
+
+           Hydraulic Fracturing Fluid Composition:
+
+              Trade Name           Supplier              Purpose                           Ingredients                    Chemical Abstract               Maximum                Maximum               Comments
+
+                                                                                                                            Service Number               Ingredient              Ingredient
+
+                                                                                                                                  (CAS #)             Concentration           Concentration
+
+                                                                                                                                                         in Additive            in HF Fluid
+
+                                                                                                                                                       (% by mass)**          (% by mass)**
+
+           Slickwater,            Schlumberge    Bactericide (Myacide        Water (Including Mix Water Supplied     by   -                                                           86.71362%
+
+           ThermaFRAC25,          r              GA25), Friction Reducer,    Client)*
+
+           HiWAY                                 Breaker, Stabilizing
+
+                                                 Agent, Additive,
+
+                                                 Surfactant , Gelling
+
+                                                 Agent, Crosslinker, Scale
+
+                                                 Inhibitor, Activator,
+
+                                                 Demulsifier, Fluid Loss
+
+                                                 Additive , Propping
+
+                                                 Agent
+
+                                                                             Crystalline silica                           14808-60-7                           95.84091%              12.73379%
+
+                                                                             Guar gum, carboxymethyl                      68130-15-4                            1.76879%                0.23501%
+
+                                                                             2-hydroxypropyl ether, sodium salt
+
+                                                                             Tetramethylammonium chloride                 75-57-0                               0.53943%                0.07167%
+
+                                                                             Methanol                                     67-56-1                               0.37332%                0.04960%
+
+                                                                             Polylactide resin                            9051-89-2                             0.30713%                0.04081%
+
+                                                                             Sodium hydroxide                             1310-73-2                             0.17792%                0.02364%
+
+                                                                             2,2`,2"-nitrilotriethanol                    102-71-6                              0.14097%                0.01873%
+
+                                                                             Decyl-dimethyl amine oxide                   2605-79-0                             0.12995%                0.01727%
+
+                                                                             Sodium thiosulphate                          7772-98-7                             0.12113%                0.01609%
+
+                                                                             Alcohol, C9-11-iso, C10, ethoxylated         78330-20-8                            0.06635%                0.00882%
+
+                                                                             Alcohol, C7-9-iso, C8, ethoxylated           78330-19-5                            0.06635%                0.00882%
+
+                                                                             Sodium bromate                               7789-38-0                             0.05286%                0.00702%
+
+                                                                             Ethoxylated propoxylated                     30846-35-6                            0.04960%                0.00659%
+
+                                                                             4-nonylphenol-formaldehyde resin
+
+                                                                             Diammonium peroxidisulphate                  7727-54-0                             0.04093%                0.00544%
+
+                                                                             L-Glutamic acid                              56-86-0                               0.03956%                0.00526%
+
+                                                                             Heavy aromatic naphtha                       64742-94-5                            0.03350%                0.00445%
+
+                                                                             Glutaraldehyde                               111-30-8                              0.03319%                0.00441%
+
+                                                                             Alcohol, C11-14, ethoxylated                 78330-21-9                            0.03284%                0.00436%
+                                                                             Quaternary ammonium compounds                68989-00-4                            0.03284%                0.00436%
+
+                                                                             chlorides derivatives
+
+                                                                             Acrylamide sodium acrylate copolymer         25085-02-3                            0.02732%                0.00363%
+
+                                                                             Sodium tetraborate                           1330-43-4                             0.02705%                0.00359%
+
+                                                                             Zirconium dichloride oxide                   7699-43-6                             0.02375%                0.00316%
+
+                                                                             Distillates (petroleum), hydrotreated light  64742-47-8                            0.02374%                0.00315%
+
+                                                                             Calcium magnesium sodium phosphate           65997-18-4                            0.02013%                0.00267%
+
+                                                                             frit
+
+                                                                             Poly(oxy-1,2-ethanediyl)                     25322-68-3                            0.01474%                0.00196%
+
+                                                                             Fumaric acid                                 110-17-8                              0.00969%                0.00129%
+
+                                                                             Naphtalene (impurity)                        91-20-3                               0.00670%                0.00089%
+
+                                                                             Vinylidene chloride/methylacrylate           25038-72-6                            0.00500%                0.00066%
+
+                                                                             copolymer
+
+                                                                             Non-crystalline silica                       7631-86-9                             0.00485%                0.00064%
+
+                                                                             Hydrogen peroxide (impurity)                 7722-84-1                             0.00151%                0.00020%
+
+                                                                             Decyldimethyl amine (impurity)               1120-24-7                             0.00151%                0.00020%
+
+                                                                             Polyethylene glycol sorbitan                 9005-64-5                             0.00146%                0.00019%
+
+                                                                             monolaurate
+
+                                                                             Alkylalcohol, ethoxylate >C10                68002-97-1                            0.00145%                0.00019%
+
+                                                                             Sorbitan monooleate                          1338-43-8                             0.00116%                0.00015%
+
+                                                                             Thiocyanic acid, ammonium salt               1762-95-4                             0.00072%                0.00010%
+
+                                                                             Poly(oxyethylene) sorbitol monostearate      9005-67-8                             0.00068%                0.00009%
+
+                                                                             Magnesium silicate hydrate (talc)            14807-96-6                            0.00026%                0.00003%
+
+                                                                             Cetylethylmorpholinium ethyl sulfate         78-21-7                               0.00009%                0.00001%
+
+                                                                             Tetrasodium                                  64-02-8                               0.00001%              < 0.00001%
+
+                                                                             ethylenediaminetetraacetate
+           * Total Water Volume sources may include fresh water, produced water, and/or recycled water
+
+           ** Information is based on the maximum potential for concentration and thus the total may be over 100%
+
+           Ingredient information for chemicals subject to 29 CFR 1910.1200(i) and Appendix D are obtained from suppliers Material Safety Data Sheets (MSDS)
+

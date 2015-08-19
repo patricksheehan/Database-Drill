@@ -1,0 +1,151 @@
+           Hydraulic Fracturing Fluid                 Product Component Information Disclosure
+
+                                 Fracture Date                    7/14/2011
+
+                                          State:                 Arkansas
+
+                                       County:                   CONWAY
+
+                                  API Number:                03-029-10867
+
+                              Operator Name:                  SEECO, Inc.
+
+                     Well Name and Number:                                         POOLE-KIRTLEY 08-15 #5-22H15
+
+                                    Longitude:                  -92.576499
+
+                                      Latitude:                  35.313335
+
+                         Long/Lat Projection:                       NAD27
+
+                             Production Type:                           Gas
+
+                  True Vertical Depth (TVD):                          5,371
+
+                  Total Water Volume (gal)*:                      7,740,582
+
+           Hydraulic Fracturing Fluid Composition:
+
+              Trade Name           Supplier              Purpose                           Ingredients                    Chemical Abstract               Maximum                Maximum               Comments
+
+                                                                                                                            Service Number               Ingredient              Ingredient
+
+                                                                                                                                  (CAS #)             Concentration           Concentration
+
+                                                                                                                                                         in Additive            in HF Fluid
+
+                                                                                                                                                       (% by mass)**          (% by mass)**
+
+           Surface Water          SEECO          Base Fluid                  Water                                        7732-18-5                         100.00%              60.28774%
+
+           Recycled Water         SEECO          Base Fluid                  Water                                        7732-18-5                         100.00%              31.88185%
+
+           Sand (Proppant)        SEECO          Proppant                    Silica quartz                                14808-60-7                        100.00%               7.23356%
+
+           15% HCl                CUDD           Hydrochloric Acid           Hydrochloric Acid                            7647-01-0                         36.93%                0.05879%
+
+           FR10A                  CUDD           Friction Reducer            No Hazardous Ingredients                     N/A                                 N/A                 0.05732%
+
+           MAI-28                 CUDD           Corrosion Inhibitor         Isopropanol                                  67-63-0                            6.00%                0.00016%
+
+                                                                             Quaternary Amine                             Proprietary                       100.00%               0.00259%
+
+                                                                             Methanol                                     67-56-1                           23.00%                0.00060%
+
+                                                                             Kerosene                                     8008-20-6                          6.00%                0.00016%
+
+           MIC-97                 CUDD           Iron Stabilizer             Methyl Alcohol                               67-56-1                           20.00%                0.00031%
+
+           Treat 661              CUDD           Scale Inhibitor             Methanol                                     67-65-1                           15.00%                0.00073%
+
+           Ozone                  Ecosphere      Microbial Control           Ozone                                        10028-15-6                        100.00%               0.00087%
+
+           CFT-1000               Protechnics    Fluid Tracer                Proprietary Ingredient in Aqueous            Proprietary                       10.00%                0.00001%
+
+                                                                             Solution
+
+                                                                             Water                                        7732-18-5                         90.00%                0.00005%
+
+           CFT-1400               Protechnics    Fluid Tracer                Proprietary Ingredient in Aqueous            Proprietary                       10.00%                0.00001%
+
+                                                                             Solution
+
+                                                                             Water                                        7732-18-5                         90.00%                0.00005%
+
+           CFT-1100               Protechnics    Fluid Tracer                Proprietary Ingredient in Aqueous            Proprietary                       10.00%                0.00001%
+
+                                                                             Solution
+
+                                                                             Water                                        7732-18-5                         90.00%                0.00005%
+
+           CFT-1200               Protechnics    Fluid Tracer                Proprietary Ingredient in Aqueous            Proprietary                       10.00%                0.00001%
+
+                                                                             Solution
+
+                                                                             Water                                        7732-18-5                         90.00%                0.00005%
+
+           CFT-1500               Protechnics    Fluid Tracer                Proprietary Ingredient in Aqueous            Proprietary                       10.00%                0.00001%
+
+                                                                             Solution
+
+                                                                             Water                                        7732-18-5                         90.00%                0.00005%
+
+           CFT-1700               Protechnics    Fluid Tracer                Water                                        7732-18-5                         90.00%                0.00005%
+                                                                             Proprietary  Ingredient in Aqueous           Proprietary                       10.00%                0.00001%
+
+                                                                             Solution
+
+           CFT-1600               Protechnics    Fluid Tracer                Water                                        7732-18-5                         90.00%                0.00005%
+
+                                                                             Proprietary  Ingredient in Aqueous           Proprietary                       10.00%                0.00001%
+
+                                                                             Solution
+
+           CFT-1900               Protechnics    Fluid Tracer                Water                                        7732-18-5                         90.00%                0.00005%
+
+                                                                             Proprietary  Ingredient in Aqueous           Proprietary                       10.00%                0.00001%
+
+                                                                             Solution
+
+           CFT-2000               Protechnics    Fluid Tracer                Water                                        7732-18-5                         90.00%                0.00005%
+
+                                                                             Proprietary  Ingredient in Aqueous           Proprietary                       10.00%                0.00001%
+
+                                                                             Solution
+
+           CFT-2100               Protechnics    Fluid Tracer                Proprietary  Ingredient in Aqueous           Proprietary                       10.00%                0.00001%
+
+                                                                             Solution
+
+                                                                             Water                                        7732-18-5                         90.00%                0.00005%
+
+           CFT-2200               Protechnics    Fluid Tracer                Water                                        7732-18-5                         90.00%                0.00005%
+
+                                                                             Proprietary  Ingredient in Aqueous           Proprietary                       10.00%                0.00001%
+
+                                                                             Solution
+
+           CFT-2500               Protechnics    Fluid Tracer                Water                                        7732-18-5                         90.00%                0.00005%
+
+                                                                             Proprietary  Ingredient in Aqueous           Proprietary                       10.00%                0.00001%
+
+                                                                             Solution
+
+           CFT-2400               Protechnics    Fluid Tracer                Water                                        7732-18-5                         90.00%                0.00005%
+
+                                                                             Proprietary  Ingredient in Aqueous           Proprietary                       10.00%                0.00001%
+
+                                                                             Solution
+
+           * Total Water Volume sources may include fresh water, produced water, and/or recycled water
+
+           ** Information is based on the maximum potential for concentration and thus the total may be over 100%
+
+           All component information listed was obtained from the suppliers Material Safety Data Sheets (MSDS). As such, the Operator is not responsible for inaccurate and/or incomplete information.
+
+           Any questions regarding the content of the MSDS should be directed to the supplier who provided it.        The Occupational Safety and Health Administrations (OSHA) regulations govern the criteria
+
+           for the disclosure of this information. Please note that Federal Law protects "proprietary", "trade secret", and "confidential business information" and the criteria for how this information is reported
+
+           on an MSDS is subject to 29 CFR 1910.1200(i) and Appendix D.
+

@@ -1,0 +1,163 @@
+           Hydraulic Fracturing Fluid                 Product Component                Information Disclosure
+
+                                 Fracture Date                     5/9/2011
+
+                                          State:                  Colorado
+
+                                       County:                     Boulder
+
+                                  API Number:                05-013-06581
+
+                              Operator Name:                                            Encana Oil & Gas (USA) Inc.
+
+                     Well Name and Number:                   Wiggett 12-13
+
+                                    Longitude:                 -105.070038
+
+                                      Latitude:                  40.057021
+
+                         Long/Lat Projection:                       NAD83
+
+                             Production Type:                           Gas
+
+                  True Vertical Depth (TVD):                          8,329
+
+                  Total Water Volume (gal)*:                        419,538
+
+           Hydraulic Fracturing Fluid Composition:
+
+              Trade Name           Supplier              Purpose                           Ingredients                    Chemical Abstract               Maximum                Maximum               Comments
+
+                                                                                                                            Service Number               Ingredient              Ingredient
+
+                                                                                                                                  (CAS #)             Concentration           Concentration
+
+                                                                                                                                                         in Additive            in HF Fluid
+
+                                                                                                                                                       (% by mass)**          (% by mass)**
+
+           Water                  A&W Water      Base Fluid                  Water                                                                          100.00%              81.53430%          Fresh Water
+
+                                  Service Inc
+
+           Sand - Premium         Halliburton    Proppant                    Crystalline silica, quartz                   14808-60-7                        100.00%              11.71045%
+
+           White - 20/40          Energy
+
+                                  Services
+
+           Sand - Premium         Halliburton    Proppant                    Crystalline silica, quartz                   14808-60-7                        100.00%               5.86059%
+
+           White - 30/50          Energy
+
+                                  Services
+
+           CL-23                  Halliburton    Crosslinker                 Zirconium, acetate lactate oxo               68909-34-2                        60.00%                0.01854%
+
+                                  Energy                                     ammonium complexes
+
+                                  Services
+
+                                                                             Ammonium chloride                            12125-02-9                        30.00%                0.00927%
+
+           BA-20                  Halliburton    Buffer                      Ammonium acetate                             631-61-8                          100.00%               0.02806%
+
+                                  Energy
+
+                                  Services
+
+                                                                             Acetic acid                                  64-19-7                           30.00%                0.00842%
+
+           LoSurf-300D            Halliburton    Non-ionic Surfactant        Ethanol                                      64-17-5                           60.00%                0.02338%
+
+                                  Energy
+
+                                  Services
+
+                                                                             Heavy aromatic petroleum naphtha             64742-94-5                        30.00%                0.01169%
+
+                                                                             Naphthalene                                  91-20-3                            5.00%                0.00195%
+
+                                                                             1,2,4 Trimethylbenzene                       95-63-6                            1.00%                0.00039%
+
+                                                                             Poly(oxy-1,2-ethanediyl),                    127087-87-0                        5.00%                0.00195%
+
+                                                                             alpha-(4-nonylphenyl)-omega-hydroxy-,
+
+                                                                             branched
+
+           Clayfix 3              Halliburton    Additive                    Sodium Chloride                              7647-14-5                         30.00%                0.03729%
+
+                                  Energy
+
+                                  Services
+
+           VICON NF               Halliburton    Breaker                     Chlorous acid, sodium salt                   7758-19-2                         10.00%                0.02835%
+
+                                  Energy
+
+                                  Services
+                                                                             Sodium chloride                              7647-14-5                         30.00%                0.08505%
+
+           FR-66                  Halliburton    Friction Reducer            Hydrotreated light petroleum distillate      64742-47-8                        30.00%                0.00890%
+
+                                  Energy
+
+                                  Services
+
+           SP Breaker             Halliburton    Breaker                     Sodium persulfate                            7775-27-1                         100.00%               0.00054%
+
+                                  Energy
+
+                                  Services
+
+           WG-18                  Halliburton    Gelling Agent               Guar gum derivative                          Not Listed                        100.00%               0.12595%
+
+                                  Energy
+
+                                  Services
+
+           OptiKleen-WF           Halliburton    Concentrate                 Sodium perborate tetrahydrate                10486-00-7                        100.00%               0.00333%
+
+                                  Energy
+
+                                  Services
+
+           15% Hydrochloric       Halliburton    Solvent                     Hydrochloric acid                            7647-01-0                         30.00%                0.06763%
+
+           Acid                   Energy
+
+                                  Services
+
+           HAI-404M               Halliburton    Corrosion Inhibitor         Quaternary ammonium salt                     Not Listed                        10.00%                0.00012%
+
+                                  Energy
+
+                                  Services
+
+                                                                             1-(Benzyl)quinolinium chloride               15619-48-4                        10.00%                0.00012%
+
+                                                                             Methanol                                     67-56-1                           30.00%                0.00035%
+
+                                                                             Aldehyde                                     Not Listed                        30.00%                0.00035%
+
+                                                                             Isopropanol                                  67-63-0                           30.00%                0.00035%
+
+           BIO-CLEARo 1000        Clearwater     Biocide                     2,2-dibromo-3-nitrilopropionamide            10222-01-2                        97.60%                0.00280%
+
+                                  International
+
+                                  L.L.C.
+
+           * Total Water Volume sources may include fresh water, produced water, and/or recycled water
+
+           ** Information is based on the maximum potential for concentration and thus the total may be over 100%
+
+           All component information listed was obtained from the suppliers Material Safety Data Sheets (MSDS). As such, the Operator is not responsible for inaccurate and/or incomplete information.
+
+           Any questions regarding the content of the MSDS should be directed to the supplier who provided it.        The Occupational Safety and Health Administrations (OSHA) regulations govern the criteria
+
+           for the disclosure of this information. Please note that Federal Law protects "proprietary", "trade secret", and "confidential business information" and the criteria for how this information is reported
+
+           on an MSDS is subject to 29 CFR 1910.1200(i) and Appendix D.
+

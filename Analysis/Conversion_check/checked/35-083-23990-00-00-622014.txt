@@ -1,0 +1,141 @@
+           Hydraulic Fracturing Fluid Product Component                                              Information Disclosure
+
+                              Job Start Date:                                     6/7/2012
+
+                               Job End Date:                                      6/7/2012
+
+                                        State:                                  Oklahoma
+
+                                      County:                                        Logan
+
+                                 API Number:                         35-083-23990-00-00
+
+                             Operator Name:                  Sooner Oil and Gas Mgt Inc
+
+                    Well Name and Number:                             Cassiday C F 1-3H
+
+                                   Longitude:                               -97.50940000
+
+                                     Latitude:                               35.98287000
+
+                                       Datum:                                      NAD27
+
+                         Federal/Tribal Well:                                           NO
+
+                         True Vertical Depth:                                        5,986
+
+            Total Base Water Volume (gal):                                        557,424
+
+             Total Base Non Water Volume:                                                 0
+
+           Hydraulic Fracturing Fluid Composition:
+
+                                                                                                      AbsCt(NrChauecAmmtSSbic#eear)rlviceC(o%nIMncAbgaedyrxndeitmmidrtaiiavuetseimnostn)*i*nMaximum
+
+                                                                                                                                              Ingredient
+
+              Trade Name             Supplier            Purpose                 Ingredients                                               Concentration in          Comments
+
+                                                                                                                                               HF Fluid
+
+                                                                                                                                            (% by mass)**
+
+           Water               Operator             Carrier
+
+                                                                        Water                         7732-18-5                  100.00000           82.48489
+
+           HCl, 10.1 - 15%     Baker Hughes         Acidizing
+
+                                                                        Water                         7732-18-5                   85.00000           14.58371SmartCare Product
+
+                                                                        Hydrochloric Acid             7647-01-0                   15.00000            2.57360SmartCare Product
+
+           AG-12, 330 gl tote  Baker Hughes         Gelling Agent
+
+                                                                        Acrylic Polymers              26006-22-4                  60.00000            0.04911
+
+                                                                        Distillates, Petroleum,       64742-47-8                  30.00000            0.02455
+
+                                                                        Hydrotreated middle
+
+           CI-27               Baker Hughes         Corrosion Inhibitor
+
+                                                                        Methanol                      67-56-1                     60.00000            0.01582SmartCare  Product
+
+                                                                        Polyoxyalkylenes              Trade Secret                30.00000            0.00791SmartCare  Product
+
+                                                                        Fatty Acids                   Trade Secret                30.00000            0.00791SmartCare  Product
+
+                                                                        Propargyl Alcohol             107-19-7                    10.00000            0.00264SmartCare  Product
+
+                                                                        Olefin                        Trade Secret                  5.00000           0.00132SmartCare  Product
+
+           Ferrotrol 300L      Baker Hughes         Iron Control
+
+                                                                        Citric Acid                   77-92-9                     60.00000            0.03357SmartCare  Product
+
+           FRW-20              Baker Hughes         Friction Reducer
+
+                                                                        Petroleum Distillates         64742-47-8                  30.00000            0.01638SmartCare  Product
+
+           NE-900, tote        Baker Hughes         Non-emulsifier
+                                                                        Methanol                      67-56-1                     30.00000            0.01072SmartCare  Product
+
+                                                                        Nonyl phenyl polyethylene glycol 9016-45-9                10.00000            0.00357SmartCare  Product
+
+                                                                        ether
+
+           GBW-5               Baker Hughes         Breaker
+
+                                                                        Ammonium Persulfate           7727-54-0                  100.00000            0.01171SmartCare  Product
+
+           Alpha 125           Baker Hughes         Biocide
+
+                                                                        Glutaraldehyde                111-30-8                    30.00000            0.00497SmartCare  Product
+
+           Ingredientsshown above aresubjectto29 CFR 1910.1200(i) and appear on Material Safety DataSheets (MSDS). Ingredientsshownbelow are Non-MSDS.
+
+                                                    Other Chemicals
+
+                                                                        Water                        7732-18-5                                        0.11203
+
+                                                                        Vinyl Copolymer              Trade Secret                                     0.01528
+
+                                                                        Copolymer                    Trade Secret                                     0.01429
+
+                                                                        Aliphatic Hydrocarbon        Trade Secret                                     0.01272
+
+                                                                        Modified Thiourea Polymer    68527-49-1                                       0.00290
+
+                                                                        Sodium Chloride              7647-14-5                                        0.00232
+
+                                                                        Oxyalkylated alkylphenol     9016-45-9                                        0.00164
+
+                                                                        Fatty Acid Esters            67701-32-0                                       0.00164
+
+                                                                        Oxyalkylated Alcohol         Trade Secret                                     0.00109
+
+                                                                        Fatty Acid Oxyalkylate       70142-34-6                                       0.00082
+
+                                                                        Diester of Sulfosuccinic Acid2673-22-5                                        0.00082
+
+                                                                        Sodium Salt
+
+                                                                        Xylene                       1330-20-7                                        0.00082
+
+                                                                        Polyol Ester                 Trade Secret                                     0.00060
+
+                                                                        Polyglycol Ester             Trade Secret                                     0.00049
+
+                                                                        Formaldehyde                 50-00-0                                          0.00013
+
+                                                                        Methanol                     67-56-1                                          0.00004
+
+           * Total Water Volume sources may include fresh water, produced water, and/or recycled water
+
+           ** Information is based on the maximum potential for concentration and thus the total may be over 100%
+
+           Note: For Field Development Products (products that begin with FDP), MSDS level only information has been provided.
+
+           Ingredient information for chemicals subject to 29 CFR 1910.1200(i) and Appendix D are obtained from suppliers Material Safety Data Sheets (MSDS)
+

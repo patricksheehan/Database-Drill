@@ -1,0 +1,169 @@
+           Hydraulic Fracturing Fluid                 Product Component                Information        Disclosure
+
+                                 Fracture Date                     4/4/2011
+
+                                          State:               New Mexico
+
+                                       County:                   Rio Arriba
+
+                                  API Number:                30-039-06527
+
+                              Operator Name:                   XTO Energy
+
+                     Well Name and Number:                  Breech C #244
+
+                                    Longitude:                  -107.43096
+
+                                      Latitude:                   36.49157
+
+                         Long/Lat Projection:                       NAD27
+
+                             Production Type:                           Gas
+
+                  True Vertical Depth (TVD):                          7,576
+
+                  Total Water Volume (gal)*:                         72,078
+
+           Hydraulic Fracturing Fluid Composition:
+
+              Trade Name           Supplier              Purpose                           Ingredients                    Chemical Abstract               Maximum                Maximum               Comments
+
+                                                                                                                            Service Number               Ingredient              Ingredient
+
+                                                                                                                                  (CAS #)             Concentration           Concentration
+
+                                                                                                                                                         in Additive            in HF Fluid
+
+                                                                                                                                                       (% by mass)**          (% by mass)**
+
+           Water                                                                                                          7732-18-5                         100.00%              52.68445%
+
+           Sand                   Halliburton    Proppant                    Crystaline Silica                            14808-60-7                        100.00%               5.98571%
+
+           Sand - Resin           Halliburton    Proppant- Resin Coated
+
+           Coated
+
+                                                                             Crystaline Silica                            14808-60-7                        100.00%               6.54437%
+
+                                                                             Phenalic Resin                               9003-35-4                          5.00%                0.32722%
+
+           Nitrogen Liquified     Halliburton    Foam Fluid                  Nitrogen                                     7727-37-9                         100.00%              31.17245%
+
+           310B                   H&M            Biocide                     Dimethyldithiocarbamate                                                         9.00%                0.00798%
+
+                                                                             cocodiamine                                  61788-93-0                        91.00%                0.08066%
+
+           SF-147                 H&M            Clay stabilizer             Propanal                                     67-63-0                           22.00%                0.01380%
+
+                                                                             quaternary ammonium                          61789-18-2                        78.00%                0.04893%
+
+           Water                  Halliburton    mix acid                    Water                                        7732-18-5                         100.00%               1.44657%
+
+           Hydrochloric Acid      Halliburton    Acid
+
+           15%
+
+                                                                             Hydrochloric acid                            7647-01-0                         30.00%                0.31037%
+
+                                                                             Water                                        7732-18-5                         70.00%                0.72420%
+
+           FE-1A                  Halliburton    FE control
+
+                                                                             Acetic anhydride                             108-24-7                          100.00%               0.01922%
+
+                                                                             Acetic acid                                  64-19-7                           60.00%                0.01153%
+
+           FE-2A                  Halliburton    FE Control
+
+                                                                             Citric acid                                  77-92-9                           60.00%                0.01330%
+
+                                                                             Water                                        7732-18-5                         40.00%                0.00887%
+
+           HAI-81M                Halliburton    Corrosion Inhibitor
+
+                                                                             Isopropanol                                  67-63-0                            5.00%                0.00014%
+
+                                                                             Ethyl octynol                                5877-42-9                          5.00%                0.00014%
+
+                                                                             Kerosene                                     8008-20-6                          5.00%                0.00014%
+                                                                             Propargyl alcohol                            107-19-7                           5.00%                0.00014%
+
+                                                                             Methanol                                     67-56-1                           30.00%                0.00084%
+
+           BA-40L Buffering       Halliburton    Buffer
+
+           Agent
+
+                                                                             Potassium Carbonate                          584-08-7                          60.00%                0.00802%
+
+           LGC-36 UC              Halliburton    Liquid Gel Concentrate
+
+                                                                             Naphtha, hydrotreated heavy                  64742-48-9                        60.00%                0.16308%
+
+                                                                             Polysaccharide                                                                 60.00%                0.16308%
+
+           AQF-2                  Halliburton    Foaming Agent
+
+                                                                             Diethylene glycol                            111-46-6                          10.00%                0.01454%
+
+                                                                             Ethylene glycol monobutyl ether              111-76-2                          30.00%                0.04361%
+
+           HC-2                   Halliburton    Foaming Agent
+
+                                                                             Inner salt of alkyl amines                                                     30.00%                0.03482%
+
+                                                                             Sodium chloride                              7647-14-5                         30.00%                0.03482%
+
+           BC-200 UC              Halliburton    Crosslinker
+
+                                                                             Hydrotreated Light Petroleum Distillate      64742-47-8                        30.00%                0.02758%
+
+                                                                             Crystalline Silica, Quartz                   14808-60-7                         5.00%                0.00460%
+
+           GasPerm 1100           Halliburton    Non-Ionic Surfactant
+
+                                                                             Terpenes and Terpenoids, sweet               68647-72-3                         5.00%                0.00251%
+
+                                                                             orange-oil
+
+                                                                             Ethanol                                      64-17-5                           60.00%                0.03015%
+
+           Optiflo-III            Halliburton    Breaker
+
+                                                                             Ammonium persulfate                          7727-54-0                         100.00%               0.00638%
+
+                                                                             Crystalline silica, quartz                   14808-60-7                        30.00%                0.00192%
+
+           SP Breaker             Halliburton    Breaker                     Sodium persulfate                            7775-27-1                         100.00%               0.00665%
+
+           BBC Activator          Halliburton    Resin activator
+
+                                                                             Methanol                                     67-56-1                           60.00%                0.13359%
+
+                                                                             Ethanol                                      64-17-5                           60.00%                0.13359%
+
+                                                                             Heavy Aromatic Petroleum Naphtha             64742-94-5                        10.00%                0.02226%
+
+                                                                             Naphthalene                                  91-20-3                            1.00%                0.00223%
+
+                                                                             1,2,4 Trimethylbenzene                       95-63-6                            1.00%                0.00223%
+
+                                                                             Poly(oxy-1,2-ethanediyl),                    127087-87-0                        5.00%                0.01113%
+
+                                                                             alpha-(4-nonphenyl)-
+
+                                                                             omega-hydroxy-,branched
+
+           * Total Water Volume sources may include fresh water, produced water, and/or recycled water
+
+           ** Information is based on the maximum potential for concentration and thus the total may be over 100%
+
+           All component information listed was obtained from the suppliers Material Safety Data Sheets (MSDS). As such, the Operator is not responsible for inaccurate and/or incomplete information.
+
+           Any questions regarding the content of the MSDS should be directed to the supplier who provided it.        The Occupational Safety and Health Administrations (OSHA) regulations govern the criteria
+
+           for the disclosure of this information. Please note that Federal Law protects "proprietary", "trade secret", and "confidential business information" and the criteria for how this information is reported
+
+           on an MSDS is subject to 29 CFR 1910.1200(i) and Appendix D.
+

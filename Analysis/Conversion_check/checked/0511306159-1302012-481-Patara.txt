@@ -1,0 +1,123 @@
+           Hydraulic Fracturing Fluid Product Component                                Information        Disclosure
+
+                                 Fracture Date                  01/30/2012
+
+                                          State:                  Colorado
+
+                                       County:                  San Miguel
+
+                                  API Number:                05-113-06159
+
+                              Operator Name:        Patara Oil & Gas LLC
+
+                     Well Name and Number:                  Single Eagle 1
+
+                                    Longitude:                  -108.72656
+
+                                      Latitude:                   38.08498
+
+                         Long/Lat Projection:                       NAD27
+
+                             Production Type:                           Gas
+
+                  True Vertical Depth (TVD):                          9,464
+
+                  Total Water Volume (gal)*:                          9,366
+
+           Hydraulic Fracturing    Fluid Composition:
+
+              Trade Name           Supplier              Purpose                           Ingredients                    Chemical Abstract               Maximum                Maximum               Comments
+
+                                                                                                                            Service Number               Ingredient              Ingredient
+
+                                                                                                                                  (CAS #)             Concentration           Concentration
+
+                                                                                                                                                         in Additive            in HF Fluid
+
+                                                                                                                                                       (% by mass)**          (% by mass)**
+
+           Water                    Operator     Carrier                     Water                                        7732-18-5                         100.00%              50.00542%                              0
+
+           Magnacide 575              Baker      Biocide                     Tetrakis(Hydroxymethyl) Phosphonium          55566-30-8                        100.00%               0.01469%          SmartCare   Product
+
+                                     Hughes                                  Sulfate
+
+           Enzyme G-III               Baker      Breaker                     Hemicellulase Enzyme Concentrate             9025-56-3                          0.10%                0.00008%                              0
+
+                                     Hughes
+
+           0                            0        0                           Water                                        7732-18-5                         99.90%                0.08001%                              0
+
+           BioSealers MR              Baker      Degradable Sealers          Non-Hazardous Ingredient                     Trade Secret                      100.00%               0.04098%                              0
+
+                                     Hughes
+
+           GW-3LDF                    Baker      Gelling Agent               Guar Gum                                     9000-30-0                         40.00%                0.12791%          SmartCare   Product
+
+                                     Hughes
+
+           0                            0        0                           Petroleum Distillate Blend                   Trade Secret                      70.00%                0.22385%                              0
+
+           Nitrogen                   Baker      Nitrogen                    Liquid Nitrogen                              7727-37-9                         100.00%               4.23753%                              0
+
+                                     Hughes
+
+           NE-900, drum               Baker      Non-emulsifier              Methanol                                     67-56-1                           30.00%                0.02651%          SmartCare   Product
+
+                                     Hughes
+
+           0                            0        0                           Nonyl Phenyl Polyethylene Glycol Ether       9016-45-9                         10.00%                0.00884%                              0
+
+           Super LC, 20/40            Baker      Proppant                    Hexamethylenetetramine                       1009-7-0                           0.01%                0.00442%                              0
+
+                                     Hughes
+
+           0                            0        0                           P/F Resin                                    9003-35-4                          5.00%                2.20982%                              0
+
+           0                            0        0                           Silicon Dioxide (Silica Sand)                14808-60-7                        97.00%               42.87046%                              0
+
+           ES-4A,                     Baker      Solvent                     Petroleum Distillates Blend                  Trade Secret                      100.00%               0.09398%                              0
+
+           Greenskeeper              Hughes
+
+           Solvent
+
+           InFlo 250W                 Baker      Surfactant                  2-Butoxyethanol                              111-76-2                          20.00%                0.00854%                              0
+                                     Hughes
+
+           0                            0        0                           Methanol                                     67-56-1                           30.00%                0.01281%                              0
+
+           0                            0        0                           Surfactants                                  Trade Secret                      80.00%                0.03417%                              0
+
+           Additional Ingredients
+
+                                                                             Copolymer                                    Trade Secret
+
+                                                                             Crystalline Silica                           14808-60-7
+
+                                                                             Ethylene Glycol Monobutyl Ether              111-76-2
+
+                                                                             Formaldehyde                                 50-00-0
+
+                                                                             Poly (oxy-1,2-ethanediyl)                    24938-91-8
+
+                                                                             Quaternary Ammonium Compounds                68953-58-2
+
+                                                                             bis[Hydrogenated Tallow Alkyl] Dimethyl
+
+                                                                             Salts With Bentonite
+
+                                                                             Water                                        7732-18-5
+
+           * Total Water Volume sources may include fresh water, produced water, and/or recycled water
+
+           ** Information is based on the maximum potential for concentration and thus the total may be over 100%
+
+           All component information listed was obtained from the suppliers Material Safety Data Sheets (MSDS). As such, the Operator is not responsible for inaccurate and/or incomplete information. Any
+
+           questions regarding the content of the MSDS should be directed to the supplier who provided it. The Occupational Safety and Health Administrations (OSHA) regulations govern the criteria for
+
+           the disclosure of this information. Please note that Federal Law protects "proprietary", "trade secret", and "confidential business information" and the criteria for how this information is reported on
+
+           an MSDS is subject to 29 CFR 1910.1200(i) and Appendix D.
+

@@ -1,0 +1,78 @@
+           Hydraulic Fracturing Fluid Product Component Information                                       Disclosure
+
+                                       Fracture Date                               12/8/2012
+
+                                               State:                                      ND
+
+                                             County:                               McKenzie
+
+                                       API Number:                             33-053-04306
+
+                                    Operator Name:           Slawson Exploration Co, Inc.
+
+                          Well Name and Number:                            Gabriel 2-36-25H
+
+                                          Longitude:                             -103.285507
+
+                                            Latitude:                              47.848667
+
+                               Long/Lat Projection:                                   NAD83
+
+                                  Production Type:                                         Oil
+
+                        True Vertical Depth (TVD):                                     11,174
+
+                        Total Water Volume (gal)*:                                 1,844,796
+
+           Hydraulic Fracturing Fluid Composition:
+
+              Trade Name              Supplier                       Purpose                                       Ingredients                          Chemical Abstract              Maximum                Maximum                Comments
+
+                                                                                                                                                         Service Number                Ingredient             Ingredient
+
+                                                                                                                                                               (CAS #)              Concentration          Concentration
+
+                                                                                                                                                                                       in Additive            in HF Fluid
+
+                                                                                                                                                                                    (% by mass)**          (% by mass)**
+
+           Sand (Proppant)        CWS                  Propping Agent                          Silicon Dioxide                                         14808-60-7                        100.00%                5.21879%
+
+           Ceramic (Proppant)     Fores                Propping Agent                          Silicon Dioxide                                         7631-86-9                          40.00%                3.76339%
+
+                                                                                               Magnesium Silicate                                      1343-88-0                          60.00%                5.64509%
+
+                                                                                               Magnesium Iron Silicate                                 1317-71-1                          10.00%                0.94085%
+
+           DWP-621                CWS                  Friction Reducer                        No Hazardous Materials                                  Not listed                        100.00%                0.01495%
+
+           DWP-111                CWS                  Gel Slurry                              No Hazardous Materials                                  Not listed                        100.00%                0.41600%
+
+           DWP-123                CWS                  Crosslinker                             Borate Salt                                             Trade secret                    Trade secret
+
+           DWP-216                CWS                  pH Buffer                               Carbonic Acid, Potassium Salt                           584-08-7                           48.00%                0.06259%
+
+           DWP-913                CWS                  Clay Control                            No Hazardous Materials                                  Not listed                        100.00%                0.05565%
+
+           DWP-955                CWS                  Non-Emulsifier                          Ethoxylated Nonyl Phenol                                Trade secret                    Trade secret
+
+                                                                                               Ethoxylated Phenolic Resin                              Trade secret                    Trade secret
+
+                                                                                               Isobutyl Ketone I                                       Trade secret                    Trade secret
+
+                                                                                               Isobutyl Alcohol                                        78-83-1                            30.00%                0.02347%
+
+                                                                                               Isobutyl Ketone II                                      Trade secret                    Trade secret
+
+           DWP-975                CWS                  Breaker                                 Ammonium Persulfate                                     7727-54-0                          76.00%                0.08265%
+
+                                                                                               Cured Resin                                             Not listed                         24.00%                0.02610%
+
+           Water                  Customer             Base Fluid                              Water                                                                                     100.00%               84.46856%
+
+           * Total Water Volume sources may include fresh water, produced water, and/or recycled water
+
+           ** Information is based on the maximum potential for concentration and thus the total may be over 100%
+
+           Ingredient information for chemicals subject to 29 CFR 1910.1200(i) and Appendix D are obtained from suppliers          Material Safety  Data Sheets (MSDS)
+

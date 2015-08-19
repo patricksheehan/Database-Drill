@@ -1,0 +1,139 @@
+           Hydraulic Fracturing Fluid Product Component                                              Information Disclosure
+
+                              Job Start Date:                                     6/3/2014
+
+                               Job End Date:                                      6/7/2014
+
+                                        State:                               North Dakota
+
+                                      County:                                    McKenzie
+
+                                 API Number:                         33-053-04933-00-00
+
+                             Operator Name:                     XTO Energy/ExxonMobil
+
+                    Well Name and Number:                               Loomer 41X-03D
+
+                                   Longitude:                              -103.32929200
+
+                                     Latitude:                               47.84720000
+
+                                       Datum:                                      NAD27
+
+                         Federal/Tribal Well:                                           NO
+
+                         True Vertical Depth:                                       11,114
+
+            Total Base Water Volume (gal):                                      3,112,074
+
+             Total Base Non Water Volume:                                                 0
+
+           Hydraulic Fracturing Fluid Composition:
+
+                                                                                                      AbsCt(NrChauecAmmtSSbice#ea)rrlviceC(o%nIMncAbgaedyrxndeimtmidrtaiiavuetseimnostn)*i*nMaximum
+
+                                                                                                                                              Ingredient
+
+              Trade Name             Supplier            Purpose                 Ingredients                                               Concentration in          Comments
+
+                                                                                                                                               HF Fluid
+
+                                                                                                                                            (% by mass)**
+
+           Water               XTO                  Water
+
+                                                                        Water                         7732-18-5                  100.00000           88.14199None
+
+           Silica Sand         Santrol              Proppant
+
+                                                                        Crystalline Silica, Quartz    14808-60-7                 100.00000            7.80103None
+
+           Ceramifrac          Ceramifrac Proppants,Proppant
+
+                               LLC
+
+                                                                        Mullite                       1302-93-8                   60.00000            1.94568None
+
+                                                                        Corundum                      1302-74-5                   60.00000            1.94568None
+
+           ECOPOL-2000LMS      Economy Polymers     Gel
+
+                               and Chemicals
+
+                                                                        Petroleum Distillates         64742-47-8                  60.00000            0.23658None
+
+                                                                        Guar Gum                      9000-30-0                   60.00000            0.23658None
+
+           ECOPOL-NE601        Economy Polymers     Surfactant
+
+                               and Chemicals
+
+                                                                        Methanol                      67-56-1                     70.00000            0.05851None
+
+                                                                        Diethanolamide                Proprietary                 70.00000            0.05851None
+
+                                                                        Polyoxyalkylene glycol butyl  9004-77-7                   50.00000            0.04179None
+
+                                                                        ether
+
+           ECONO MAX           Economy Polymers     Clay Control
+
+                               and Chemicals
+
+                                                                        Proprietary                   Proprietary                100.00000            0.09899None
+           ECOPOL -EC101       Economy Polymers     Crosslinker
+
+                               and Chemicals
+
+                                                                        Potassium Metaborate          16481-66-6                  25.00000            0.02931None
+
+                                                                        Potassium Hydroxide           1310-73-2                   25.00000            0.02931None
+
+                                                                        Ethylene Glycol               107-21-1                    25.00000            0.02931None
+
+           ECOPOL   BUFFER-    Economy Polymers     pH Buffer
+
+           HC                  and Chemicals
+
+                                                                        Water                         7732-18-5                   60.00000            0.02934None
+
+                                                                        Potassium Carbonate           584-08-7                    40.00000            0.01956None
+
+                                                                        Potassium Hydroxide           1310-58-3                   30.00000            0.01467None
+
+           EC6106A             Nalco Company        Biocide
+
+                                                                        N-Alkylpropylenediamine       68155-37-3                  30.10000            0.00755None
+
+                                                                        Isopropanol                   67-63-0                     30.00000            0.00752None
+
+           EC6089A             Nalco Company        Scale Inhibitor
+
+                                                                        Ethylene Glycol               107-21-1                    20.00000            0.00698None
+
+                                                                        Ammonium Chloride             12125-02-9                  10.00000            0.00349None
+
+                                                                        Methanol                      67-56-1                       5.00000           0.00174None
+
+           ECONOCAP-HP         Economy Polymers     Gel Breaker
+
+                               and Chemicals
+
+                                                                        Ammonium persulfate           7727-54-0                   90.00000            0.01008None
+
+           Ingredients shown above are subject to 29 CFR 1910.1200(i) and appear on Material Safety Data Sheets (MSDS).Ingredientsshownbelow are Non-MSDS.
+
+                                                    Other Chemicals
+
+                                                                        Aliphatic Polymer            Proprietary                                      0.00336
+
+                                                                        Inorganic Material           Proprietary                                      0.00336
+
+           * Total Water Volume sources may include fresh water, produced water, and/or recycled water
+
+           ** Information is based on the maximum potential for concentration and thus the total may be over 100%
+
+           Note: For Field Development Products (products that begin with FDP), MSDS level only information has been provided.
+
+           Ingredient information for chemicals subject to 29 CFR 1910.1200(i) and Appendix D are obtained from suppliers Material Safety Data Sheets (MSDS)
+

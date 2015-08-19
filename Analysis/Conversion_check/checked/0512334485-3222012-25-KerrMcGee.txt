@@ -1,0 +1,99 @@
+           Hydraulic Fracturing Fluid                 Product Component                Information        Disclosure
+
+                                 Fracture Date                    3/22/2012
+
+                                          State:                         CO
+
+                                       County:                       WELD
+
+                                  API Number:                05-123-34485
+
+                              Operator Name:                   KerrMcGee
+
+                     Well Name and Number:              CAMP 28N-E25HZ
+
+                                    Longitude:               -104.7228933
+
+                                      Latitude:               40.19111709
+
+                         Long/Lat Projection:                       NAD83
+
+                             Production Type:                           Gas
+
+                  True Vertical Depth (TVD):                          7,271
+
+                  Total Water Volume (gal)*:                      2,930,453
+
+           Hydraulic Fracturing Fluid Composition:
+
+              Trade Name           Supplier              Purpose                           Ingredients                    Chemical Abstract               Maximum                Maximum               Comments
+
+                                                                                                                            Service Number               Ingredient              Ingredient
+
+                                                                                                                                  (CAS #)             Concentration           Concentration
+
+                                                                                                                                                         in Additive            in HF Fluid
+
+                                                                                                                                                       (% by mass)**          (% by mass)**
+
+           BA-40L                 Halliburton    Buffering Agent             Potassium carbonate                          584-08-7                          60.00%                0.06604%
+
+           Cat-3                  Halliburton    Activator                   EDTAchelate                                  N.E.                              30.00%                0.00350%
+
+           Cat-4                  Halliburton    Activator                   Diethylenetriamine                           111-40-0                          60.00%                0.00404%
+
+           CL-23                  Halliburton    Crosslinker                 Zirconium complex                                                              60.00%                0.00193%
+
+                                                                             Ammonium Chloride                            12125-02-9                        27.00%                0.00087%
+
+           CL-37                  Halliburton    Crosslinker                 Triethanolamine zirconate                    101033-44-7                       100.00%               0.02250%
+
+                                                                             Propanol                                     71-23-8                           30.00%                0.00675%
+
+                                                                             Glycerine                                    56-81-5                           30.00%                0.00675%
+
+           Claycare               Baker          KCl substitute              Water                                        007732-18-5                       30.00%                0.03676%
+
+                                  Hughes
+
+                                                                             Choline Chloride                             000067-48-1                       75.00%                0.09191%
+
+           FR-66                  Halliburton    Friction Reducer            Hydrotreated light petroleum distillate      64742-47-8                        30.00%                0.01433%
+
+           Frac-cide 1000         Baker          Biocide                     Water                                        007732-18-5                        5.00%                0.00008%
+
+                                  Hughes
+
+                                                                             2,2-dibromo-3-nitrilopropionamide            010222-01-2                       100.00%               0.00158%
+
+           GASPERM 1100           Halliburton    Non-ionic Surfactant        Terpenes and Terpenoids, sweet               68647-72-3                         5.00%                0.00847%
+
+                                                                             orange-oil
+
+                                                                             Ethanol                                      64-17-5                           60.00%                0.10169%
+
+           Resin Coated Sand      Halliburton    Propping Agent              Crystalline silica (Quartz)                  14808-60-7                        100.00%               0.58178%
+
+           Sand (Proppant)        Halliburton    Propping Agent              Crystalline silica (Quartz)                  14808-60-7                        99.90%               11.52247%
+
+           SP Breaker             Halliburton    Gel Breaker                 Sodium persulfate                            7775-27-1                         100.00%               0.00016%
+
+           SpectraFlood Tracer    CoreLab        Fluid Tracer                Water                                        7732-18-5                         90.00%                0.02081%
+
+           IWT-2000
+
+                                                                             Proprietary Ingredient                       Proprietary                       10.00%                0.00231%
+
+           Vicon NF               Halliburton    Gel Breaker                 Sodium chloride                              7647-14-5                         30.00%                0.07750%
+
+                                                                             Chlorous acid, sodium salt                   7758-19-2                         10.00%                0.02583%
+
+           Water                  Anadarko       Base Carrier Fluid          Water                                                                          100.00%              86.96642%
+
+           WG-18                  Halliburton    Gelling agent               Guar gum derivative                                                            100.00%               0.14063%
+           * Total Water Volume sources may include fresh water, produced water, and/or recycled water
+
+           ** Information is based on the maximum potential for concentration and thus the total may be over 100%
+
+           Ingredient information for chemicals subject to 29 CFR 1910.1200(i) and Appendix D are obtained from suppliers Material Safety Data Sheets (MSDS)
+

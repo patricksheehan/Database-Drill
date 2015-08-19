@@ -1,0 +1,270 @@
+           Hydraulic Fracturing Fluid Product Component                                              Information Disclosure
+
+                              Job Start Date:                                  10/28/2013
+
+                               Job End Date:                                   10/30/2013
+
+                                        State:                                  Oklahoma
+
+                                      County:                                       Dewey
+
+                                 API Number:                         35-043-23335-00-00
+
+                             Operator Name:              MEWBOURNE OIL COMPANY
+
+                    Well Name and Number:                                  Basler 29-2HC
+
+                                   Longitude:                               -99.34496700
+
+                                     Latitude:                               35.84082500
+
+                                       Datum:                                      NAD83
+
+                         Federal/Tribal Well:                                           NO
+
+                         True Vertical Depth:                                        9,800
+
+            Total Base Water Volume (gal):                                      3,080,599
+
+             Total Base Non Water Volume:                                                 0
+
+           Hydraulic Fracturing Fluid Composition:
+
+                                                                                                      AbsCt(NrChauecAmmtSSbice#ear)rlviceC(o%nIMncAbgaedyrxndeimtmidrtaiiavuetseimnostn)*i*nMaximum
+
+                                                                                                                                              Ingredient
+
+              Trade Name             Supplier            Purpose                 Ingredients                                               Concentration in          Comments
+
+                                                                                                                                               HF Fluid
+
+                                                                                                                                            (% by mass)**
+
+           Fresh Water         Operator             Base Fluid
+
+                                                                        Fresh Water                   7732-18-5                  100.00000           90.54243Density = 8.330
+
+           SAND - PREMIUM      Halliburton          Proppant
+
+           WHITE
+
+                                                                        Crystalline silica, quartz    14808-60-7                 100.00000            8.98978
+
+           LGC-36 UC           Halliburton          Liquid Gel Concentrate
+
+                                                                        Naphtha, hydrotreated heavy   64742-48-9                  60.00000            0.06920
+
+                                                                        Guar gum                      9000-30-0                   60.00000            0.06920
+
+           LoSurf-300D         Halliburton          Non-ionic Surfactant
+
+                                                                        Ethanol                       64-17-5                     60.00000            0.04903
+
+                                                                        Heavy aromatic petroleum      64742-94-5                  30.00000            0.02452
+
+                                                                        naphtha
+
+                                                                        Naphthalene                   91-20-3                       5.00000           0.00409
+
+                                                                        Poly(oxy-1,2-ethanediyl), alpha-127087-87-0                 5.00000           0.00409
+
+                                                                        (4-nonylphenyl)-omega-
+
+                                                                        hydroxy-, branched
+
+                                                                        1,2,4 Trimethylbenzene        95-63-6                       1.00000           0.00082
+
+           Cla-WebTM           Halliburton          Additive
+
+                                                                        Ammonium salt                 Confidential                60.00000            0.05973
+
+           BC-200 UC           Halliburton          Crosslinker
+
+                                                                        Modified alkane               Confidential                60.00000            0.03881
+           FR-66               Halliburton          Friction Reducer
+
+                                                                        Hydrotreated light petroleum  64742-47-8                  30.00000            0.01673
+
+                                                                        distillate
+
+           CL-31 CROSSLINKER Halliburton            Crosslinker
+
+                                                                        Potassium metaborate          13709-94-9                  60.00000            0.00993
+
+                                                                        Potassium hydroxide           1310-58-3                     5.00000           0.00083
+
+           SP BREAKER          Halliburton          Breaker
+
+                                                                        Sodium persulfate             7775-27-1                  100.00000            0.00388
+
+           GBW-30 BREAKER      Halliburton          Breaker
+
+                                                                        Carbohydrates                 Confidential               100.00000            0.00247
+
+                                                                        Hemicellulase enzyme          9012-54-8                   30.00000            0.00074
+
+           OptiKleen-WFTM      Halliburton          Concentrate
+
+                                                                        Sodium perborate tetrahydrate 10486-00-7                 100.00000            0.00252
+
+           BE-9W               Halliburton          Biocide
+
+                                                                        Tributyl tetradecyl phosphonium81741-28-8                 10.00000            0.00221
+
+                                                                        chloride
+
+           OPTIFLO-III         Halliburton          Breaker
+
+           DELAYED RELEASE
+
+           BREAKER
+
+                                                                        Ammonium persulfate           7727-54-0                  100.00000            0.00159
+
+                                                                        Crystalline silica, quartz    14808-60-7                  30.00000            0.00048
+
+           OPTIFLO-II DELAYED Halliburton           Breaker
+
+           RELEASE BREAKER
+
+                                                                        Ammonium persulfate           7727-54-0                  100.00000            0.00159
+
+                                                                        Crystalline silica, quartz    14808-60-7                  10.00000            0.00016
+
+           Ingredients shown above are subjectto29CFR 1910.1200(i) andappear on Material Safety Data Sheets (MSDS).Ingredientsshownbelow are Non-MSDS.
+
+                                                    Other Ingredient(s)
+
+                                                                        Water                        7732-18-5                                        0.12526
+
+                                                    Other Ingredient(s)
+
+                                                                        Borate salts                 Confidential                                     0.03881
+
+                                                    Other Ingredient(s)
+
+                                                                        Oxyalkylated phenolic resin  Confidential                                     0.02452
+
+                                                    Other Ingredient(s)
+
+                                                                        Sodium carbonate             497-19-8                                         0.01940
+
+                                                    Other Ingredient(s)
+
+                                                                        Polyacrylamide copolymer     Confidential                                     0.01673
+
+                                                    Other Ingredient(s)
+
+                                                                        Propylene glycol             57-55-6                                          0.01393
+
+                                                    Other Ingredient(s)
+
+                                                                        Oxyalkylated phenolic resin  Confidential                                     0.00817
+
+                                                    Other Ingredient(s)
+
+                                                                        Sodium chloride              7647-14-5                                        0.00777
+
+                                                    Other Ingredient(s)
+
+                                                                        Quaternary ammonium          68953-58-2                                       0.00577
+
+                                                                        compounds, bis(hydrogenated
+
+                                                                        tallow alkyl) dimethyl,salts with
+
+                                                                        bentonite
+
+                                                    Other Ingredient(s)
+                                                                        Quaternary amine             Confidential                                     0.00498
+
+                                                    OtherIngredient(s)
+
+                                                                        Modified bentonite           Confidential                                     0.00323
+
+                                                    OtherIngredient(s)
+
+                                                                        Fatty acid tall oil amide    Confidential                                     0.00279
+
+                                                    OtherIngredient(s)
+
+                                                                        Alcohols, C12-16, ethoxylated68551-12-2                                       0.00279
+
+                                                    OtherIngredient(s)
+
+                                                                        Ammonium chloride            12125-02-9                                       0.00279
+
+                                                    OtherIngredient(s)
+
+                                                                        Fatty alcohol polyglycol ether9043-30-5                                       0.00115
+
+                                                                        surfactant
+
+                                                    OtherIngredient(s)
+
+                                                                        Quaternary amine             Confidential                                     0.00100
+
+                                                    OtherIngredient(s)
+
+                                                                        Cured acrylic resin          Confidential                                     0.00095
+
+                                                    OtherIngredient(s)
+
+                                                                        Propylene carbonate          108-32-7                                         0.00065
+
+                                                    OtherIngredient(s)
+
+                                                                        2-Ethyl hexanol              104-76-7                                         0.00065
+
+                                                    OtherIngredient(s)
+
+                                                                        Organic salt                 Confidential                                     0.00065
+
+                                                    OtherIngredient(s)
+
+                                                                        Sorbitan monooleate          9005-65-6                                        0.00056
+
+                                                                        polyoxyethylene derivative
+
+                                                    OtherIngredient(s)
+
+                                                                        Sorbitan, mono-9-            1338-43-8                                        0.00056
+
+                                                                        octadecenoate, (Z)
+
+                                                    OtherIngredient(s)
+
+                                                                        Crystalline silica, quartz   14808-60-7                                       0.00018
+
+                                                    OtherIngredient(s)
+
+                                                                        Amine salts                  Confidential                                     0.00010
+
+                                                    OtherIngredient(s)
+
+                                                                        Amine salts                  Confidential                                     0.00010
+
+                                                    OtherIngredient(s)
+
+                                                                        Quaternary amine             Confidential                                     0.00010
+
+                                                    OtherIngredient(s)
+
+                                                                        Methanol                     67-56-1                                          0.00006
+
+                                                    OtherIngredient(s)
+
+                                                                        Butyl alcohol                71-36-3                                          0.00006
+
+                                                    OtherIngredient(s)
+
+                                                                        Sodium sulfate               7757-82-6                                        0.00000
+
+           * Total Water Volume sources may include fresh water, produced water, and/or recycled water
+
+           ** Information is based on the maximum potential for concentration and thus the total may be over 100%
+
+           Note: For Field Development Products (products that begin with FDP), MSDS level only information has been provided.
+
+           Ingredient information for chemicals subject to 29 CFR 1910.1200(i) and Appendix D are obtained from suppliers MaterialSafetyDataSheets(MSDS)
+

@@ -1,0 +1,151 @@
+           Hydraulic Fracturing Fluid Product Component                                              Information Disclosure
+
+                              Job Start Date:                                     5/8/2014
+
+                               Job End Date:                                    5/10/2014
+
+                                        State:                                   Colorado
+
+                                      County:                                         Weld
+
+                                 API Number:                         05-123-37301-00-00
+
+                             Operator Name:                Encana Oil & Gas (USA) Inc.
+
+                    Well Name and Number:                      PEPPLER FARMS 1B-4H
+
+                                   Longitude:                              -104.99976200
+
+                                     Latitude:                               40.25816900
+
+                                       Datum:                                      NAD83
+
+                         Federal/Tribal Well:                                           NO
+
+                         True Vertical Depth:                                        7,378
+
+            Total Base Water Volume (gal):                                      1,599,024
+
+             Total Base Non Water Volume:                                                 0
+
+           Hydraulic Fracturing Fluid Composition:
+
+                                                                                                      AbsCt(NrChauecAmmtSSbice#ear)rlviceC(o%nIMncAbgaedyrxndeitmmidrtaiiavuetseimnostn)*i*nMaximum
+
+                                                                                                                                              Ingredient
+
+              Trade Name             Supplier            Purpose                 Ingredients                                               Concentration in          Comments
+
+                                                                                                                                               HF Fluid
+
+                                                                                                                                            (% by mass)**
+
+           Water               Encana               Base Fluid
+
+                                                                        Water                         7732-18-5                  100.00000           90.90202Fresh, Recycled, Reused
+
+           40/70 Mesh          Mississippi Sand, LLCProppant
+
+                                                                        Largely composed of Silica    14808-60-7                 100.00000            3.07436
+
+                                                                        (SiO2)
+
+                                                                        Remainder is made up of       Not Listed                    5.00000           0.15372
+
+                                                                        various other oxides and trace
+
+                                                                        elements, of which CaO, MgO,
+
+                                                                        and FE2O3 are the largest
+
+                                                                        percentages
+
+           40/70 Mesh          Superior Silica SandsProppant
+
+                               LLC
+
+                                                                        Crystalline silica (quartz)   14808-60-7                  99.90000            3.22446
+
+           40/70 Mesh          Barton Sand & Gravel Proppant
+
+                               Co.
+
+                                                                        Crystalline Silica            14808-60-7                  99.00000            2.16973
+
+           40/70 Mesh          Preferred Sands LLC  Proppant
+
+                                                                        Crystalline silica (quartz)   14808-60-7                  99.90000            0.16789
+
+           FR 1205             Chem Rock            Friction Reducer
+
+                               Technologies, L.L.C.
+
+                                                                        Hydrotreated Light Distillate 64742-47-8                  80.00000            0.08253
+
+                                                                        Polyacrylamide                05/08/9003                  40.00000            0.04126
+           SURF 664            Chem Rock            Surfactant
+
+                               Technologies,L.L.C.
+
+                                                                        Water                         7732-18-5                   65.00000            0.06689
+
+                                                                        NonHazardous Esters           67784-80-9                  25.00000            0.02573
+
+                                                                        Ethoxylate                    68439-45-2                  25.00000            0.02573
+
+           Hydrochloric Acid15%Chem Rock            Acid
+
+           Aq                  Technologies,L.L.C.
+
+                                                                        Water                         7732-18-5                   90.00000            0.05475
+
+                                                                        Hydrochloric acid             7647-01-0                   20.00000            0.01217
+
+           GB 1102 L           Chem Rock            Guar Breaker
+
+                               Technologies,L.L.C.
+
+                                                                        Water                         7732-18-5                   75.00000            0.02240
+
+                                                                        Sodium Chlorite               7758-19-2                   30.00000            0.00896
+
+                                                                        Ethylene Glycol               107-21-1                    25.00000            0.00747
+
+           Rapid Biocontrol    Chem Rock            Microbiocide
+
+           265LT               Technologies,L.L.C.
+
+                                                                        Isopropanol                   67-63-0                     36.00000            0.00871
+
+                                                                        Glutaraldehyde                111-30-8                    27.00000            0.00653
+
+                                                                        Water                         7732-18-5                   27.00000            0.00653
+
+                                                                        Didecyl dimethyl ammonium     111-42-20                     8.00000           0.00194
+
+                                                                        chloride
+
+                                                                        Alkyl dimethyl benzyl ammonium 68424-85-1                   5.50000           0.00133
+
+                                                                        chloride
+
+                                                                        Ethanol                       64-17-5                       4.00000           0.00097
+
+                                                                        Methanol                      67-56-1                       0.25000           0.00006
+
+           CC 1503             Chem Rock            Permanent Clay
+
+                               Technologies,L.L.C.  Stabilizer
+
+                                                                        Calcium chloride              10043-52-4                  15.00000            0.01729
+
+           Ingredients shown above are subject to 29 CFR 1910.1200(i) and appear on Material Safety Data Sheets (MSDS).Ingredientsshownbelow are Non-MSDS.
+
+           * Total Water Volume sources may include fresh water, produced water, and/or recycled water
+
+           ** Information is based on the maximum potential for concentration and thus the total may be over 100%
+
+           Note: For Field Development Products (products that begin with FDP), MSDS level only information has been provided.
+
+           Ingredient information for chemicals subject to 29 CFR 1910.1200(i) and Appendix D are obtained from suppliers Material Safety Data Sheets (MSDS)
+

@@ -1,0 +1,220 @@
+           Hydraulic Fracturing Fluid Product Component                                              Information Disclosure
+
+                              Job Start Date:                                  10/20/2013
+
+                               Job End Date:                                   10/27/2013
+
+                                        State:                                        Ohio
+
+                                      County:                                       Carroll
+
+                                 API Number:                         34-019-22256-00-00
+
+                             Operator Name:                 Chesapeake Operating, Inc.
+
+                    Well Name and Number:                         JC ACRES 12-12-5 5H
+
+                                   Longitude:                               -81.00543900
+
+                                     Latitude:                               40.46952600
+
+                                       Datum:                                      NAD27
+
+                         Federal/Tribal Well:                                           NO
+
+                         True Vertical Depth:                                        8,211
+
+            Total Base Water Volume (gal):                                      8,242,458
+
+             Total Base Non Water Volume:                                         533,559
+
+           Hydraulic Fracturing Fluid Composition:
+
+                                                                                                      AbsCtN(rChauecAmmtSSbice#ear)rlviceC(o%nIMncAbgaedyrxndeimtmidrtaiiavuetseimnostn)*i*nMaximum
+
+                                                                                                                                              Ingredient
+
+              Trade Name             Supplier            Purpose                 Ingredients                                               Concentration in          Comments
+
+                                                                                                                                               HF Fluid
+
+                                                                                                                                            (% by mass)**
+
+           Fresh Water         CHESAPEAKE           Carrier/Base Fluid
+
+                               ENERGY
+
+                                                                        Water                         007732-18-5                100.00000           79.98490
+
+           Northern White Sand PERFORMANCE          Proppant - Natural
+
+                               TECHNOLOGIES
+
+                                                                        Crystalline Silica (Quartz Sand,014808-60-7              100.00000           10.78745
+
+                                                                        Silicon Dioxide)
+
+           Recycled Produced   CHESAPEAKE           Carrier/Base Fluid
+
+           Water               ENERGY
+
+                                                                        Water                         007732-18-5                100.00000            6.80939
+
+           100 Mesh Sand       PERFORMANCE          Proppant - Natural
+
+                               TECHNOLOGIES
+
+                                                                        Crystalline Silica (Quartz Sand,014808-60-7              100.00000            1.18619
+
+                                                                        Silicon Dioxide)
+
+           PTLMP136            PERFORMANCE          Acid
+
+                               TECHNOLOGIES
+
+                                                                        Water                         007732-18-5                 85.00000            0.83904
+
+                                                                        Hydrochloric Acid             007647-01-0                 15.00000            0.14807
+
+           PTLCA102            PERFORMANCE          Cross Linker
+
+                               TECHNOLOGIES
+
+                                                                        Proprietary Alkyl Alcohol     TRADE SECRET                60.00000            0.00909
+
+                                                                        Sodium Hydroxide              001310-73-2                 60.00000            0.00909
+
+                                                                        Proprietary Inorganic Salt    TRADE SECRET                30.00000            0.00455
+           PTLFR200            PERFORMANCE          Friction Reducer
+
+                               TECHNOLOGIES
+
+                                                                        Proprietary Aliphatic         TRADE SECRET                30.00000            0.01495
+
+                                                                        Hydrocarbon
+
+                                                                        Proprietary Oxyalkylated Alcohol TRADE SECRET               5.00000           0.00249
+
+           EC6111A             NALCO                Anti-Bacterial Agent
+
+                                                                        Glutaraldehyde (Pentanediol)  000111-30-8                 30.00000            0.00821
+
+           PTLBW112            PERFORMANCE          Breaker
+
+                               TECHNOLOGIES
+
+                                                                        Ammonium Persulfate           007727-54-0                100.00000            0.00763
+
+           PTLAI171            PERFORMANCE          Corrosion Inhibitor
+
+                               TECHNOLOGIES
+
+                                                                        Isopropanol (Isopropyl Alcohol,000067-63-0                60.00000            0.00099
+
+                                                                        Propan-2-ol)
+
+                                                                        Ethylene Glycol               000107-21-1                 30.00000            0.00050
+
+                                                                        Proprietary Organic Amine     TRADE SECRET                30.00000            0.00050
+
+                                                                        Resin Salt
+
+                                                                        Proprietary Aromatic Aldehyde TRADE SECRET                10.00000            0.00017
+
+                                                                        Dimethyl Formamide            000068-12-2                 10.00000            0.00017
+
+                                                                        Proprietary Quaternary        TRADE SECRET                10.00000            0.00017
+
+                                                                        Ammonium Compound
+
+           PTLBW102            PERFORMANCE          Breaker
+
+                               TECHNOLOGIES
+
+                                                                        Ammonium Persulfate           007727-54-0                100.00000            0.00077
+
+           PTLIS352            PERFORMANCE          Iron Control Agent
+
+                               TECHNOLOGIES
+
+                                                                        Citric Acid                   000077-92-9                100.00000            0.00052
+
+           PTLGL240            PERFORMANCE          Gelling Agent
+
+                               TECHNOLOGIES
+
+                                                                        No Hazardous Components       NONE
+
+           PTLSI372            PERFORMANCE          Scale Inhibitor
+
+                               TECHNOLOGIES
+
+                                                                        No Hazardous Components       NONE
+
+           Ingredients shown above are subject to 29CFR 1910.1200(i) and appear on Material Safety Data Sheets (MSDS). Ingredientsshownbelow are Non-MSDS.
+
+           PTLAI171,           PERFORMANCE          Breaker, Corrosion
+
+           PTLBW112,           TECHNOLOGIES         Inhibitor, Friction
+
+           PTLFR200,                                Reducer, Gelling
+
+           PTLGL240, PTLSI372                       Agent, Scale Inhibitor
+
+                                                                        Guar Gum                     009000-30-0                                      0.14166
+
+                                                                        Petroleum Distillate         064742-47-8                                      0.14166
+
+                                                                        Hydrotreated Light
+
+                                                                        Proprietary Clay             TRADE SECRET                                     0.14166
+
+                                                                        Proprietary Surfactant       TRADE SECRET                                     0.14166
+
+                                                                        Water                        007732-18-5                                      0.07070
+
+                                                                        Proprietary Vinyl Copolymer  TRADE SECRET                                     0.05384
+
+                                                                        Sodium Chloride              007647-14-5                                      0.05037
+
+                                                                        Proprietary Oxyalkylated FattyTRADE SECRET                                    0.05037
+
+                                                                        Acid Derivative
+
+                                                                        Proprietary Substituted FattyTRADE SECRET                                     0.05037
+
+                                                                        Acid Ester
+
+                                                                        Proprietary Aliphatic AlcoholTRADE SECRET                                     0.05037
+
+                                                                        Tetrasodium                  000064-02-8                                      0.05037
+
+                                                                        Ethylenediaminetetraacetate
+                                                                        Proprietary Polycarboxylic AcidTRADE SECRET                                   0.01967
+
+                                                                        Polymer
+
+                                                                        Proprietary Alkylene Oxide BlockTRADE SECRET                                  0.00066
+
+                                                                        Polymer
+
+                                                                        Proprietary Methanol         TRADE SECRET                                     0.00066
+
+                                                                        2-Ethylhexanol               000104-76-7                                      0.00066
+
+                                                                        Diethylene Glycol            000111-46-6                                      0.00066
+
+                                                                        Copper Sulfate               007758-98-7                                      0.00057
+
+           EC6111A             NALCO                Anti-Bacterial Agent
+
+                                                                        Water                        007732-18-5                                      0.02799
+
+           * Total Water Volume sources may include fresh water, produced water, and/or recycled water
+
+           ** Information is based on the maximum potential for concentration and thus the total may be over 100%
+
+           Note: For Field Development Products (products that begin with FDP), MSDS level only information has been provided.
+
+           Ingredient information for chemicals subject to 29 CFR 1910.1200(i) and Appendix D are obtained from suppliers MaterialSafetyDataSheets(MSDS)
+

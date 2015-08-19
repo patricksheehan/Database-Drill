@@ -1,0 +1,91 @@
+           Hydraulic Fracturing Fluid                 Product Component                Information        Disclosure
+
+                                 Fracture Date                    7/23/2012
+
+                                          State:               LOUISIANA
+
+                                       County:             BEAUREGARD
+
+                                  API Number:                17-011-21135
+
+                              Operator Name:                  EP ENERGY
+
+                     Well Name and Number:                       PWK 10-1
+
+                                    Longitude:                  -93.280278
+
+                                      Latitude:                  30.553056
+
+                         Long/Lat Projection:                       NAD27
+
+                             Production Type:                            Oil
+
+                  True Vertical Depth (TVD):                         11,499
+
+                  Total Water Volume (gal)*:                        117,498
+
+           Hydraulic Fracturing Fluid Composition:
+
+              Trade Name           Supplier              Purpose                           Ingredients                    Chemical Abstract               Maximum                Maximum               Comments
+
+                                                                                                                            Service Number               Ingredient              Ingredient
+
+                                                                                                                                  (CAS #)             Concentration           Concentration
+
+                                                                                                                                                         in Additive            in HF Fluid
+
+                                                                                                                                                       (% by mass)**          (% by mass)**
+
+           CL-23                  HALLIBURTO     CROSSLINKER                 AMMONIUM CHLORIDE                            12125-02-6                        30.00%                0.05850%
+
+                                  N
+
+           CL-23                  HALLIBURTO     CROSSLINKER                 ZIRCONIUM, ACETATE LACTATE OXO               68909-34-2                        60.00%                0.11690%
+
+                                  N
+
+           LGC-36 UC              HALLIBURTO     GELLING AGENT               NAPHTHA, HYDROTREATED HEAVY                  64742-48-9                        60.00%                0.32780%
+
+                                  N
+
+           LGC-36 UC              HALLIBURTO     GELLING AGENT               GUAR GUM                                     9000-30-0                         60.00%                0.32780%
+
+                                  N
+
+           BA-40L                 HALLIBURTO     BUFFER                      POTASSIUM CARBONATE                          584-08-7                          60.00%                0.05110%
+
+                                  N
+
+           BE-6                   HALLIBURTO     BIOCIDE                     2-BROMO-2-NITRO-1,3-PROPANEDIOL              52-51-7                          100.00%                0.03320%
+
+                                  N
+
+           BE-3S                  HALLIBURTO     BACTERICIDE                 2-MONOBROMO-3-NITRILOPROPIONA                1113-55-9                         5.00%                 0.00170%
+
+                                  N                                          MIDE
+
+           BE-3S                  HALLIBURTO     BACTERICIDE                 2,2                                          10222-01-2                       100.00%                0.03320%
+
+                                  N                                          DIBROMO-3-NITRILOPROPIONAMIDE
+
+           VICON NF               HALLIBURTO     BREAKER (OXIDANT)           CHLOROUS ACID, SODIUM SALT                   7758-19-2                         10.00%                0.02770%
+
+                                  N
+
+           VICON NF               HALLIBURTO     BREAKER (OXIDANT)           SODIUM CHLORIDE                              7647-14-5                         30.00%                0.08300%
+
+                                  N
+
+           AQF-2                  HALLIBURTO     FOAMING AGENT               DIETHYLENE GLYCOL                            111-46-6                          10.00%                0.03910%
+
+                                  N
+
+           AQF-2                  HALLIBURTO     FOAMIMG AGENT               ETHYLENE GLYCOL MONOBUTYL ETHER              111-76-2                          30.00%                0.11740%
+
+                                  N
+           * Total Water Volume sources may include fresh water, produced water, and/or recycled water
+
+           ** Information is based on the maximum potential for concentration and thus the total may be over 100%
+
+           Ingredient information for chemicals subject to 29 CFR 1910.1200(i) and Appendix D are obtained from suppliers Material Safety Data Sheets (MSDS)
+

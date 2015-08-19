@@ -1,0 +1,115 @@
+           Hydraulic Fracturing Fluid                 Product Component                Information        Disclosure
+
+                           Last Fracture Date                   04/01/2013
+
+                                          State:                 California
+
+                                       County:                         Kern
+
+                                  API Number:                04-030-49662
+
+                              Operator Name:              Aera Energy Llc
+
+                     Well Name and Number:                        568N1-12
+
+                                    Longitude:               -119.7664097
+
+                                      Latitude:                 35.4996991
+
+                         Long/Lat Projection:                       NAD83
+
+                             Production Type:                            Oil
+
+                  True Vertical Depth (TVD):                          2,191
+
+                  Total Water Volume (gal)*:                         69,132
+
+           Hydraulic Fracturing    Fluid Composition:
+
+              Trade Name           Supplier              Purpose                           Ingredients                    Chemical Abstract               Maximum                Maximum               Comments
+
+                                                                                                                            Service Number               Ingredient              Ingredient
+
+                                                                                                                                  (CAS #)             Concentration           Concentration
+
+                                                                                                                                                         in Additive            in HF Fluid
+
+                                                                                                                                                       (% by mass)**          (% by mass)**
+
+           Water                    Operator     Carrier                     Water                                        7732-18-5                         100.00%              73.27300%
+
+           X-Cide 207                 Baker      Biocide                     2-Methyl-4-Isothiazolin-3-One                2682-20-4                          5.00%                0.00011%
+
+                                     Hughes
+
+                                                                             5-Chloro-2-Methyl-4-Isothiazolin-3-One       26172-55-4                        10.00%                0.00023%
+
+                                                                             Crystalline Silica: Cristobalite             14464-46-1                         1.00%                0.00002%
+
+                                                                             Crystalline Silica: Quartz (SiO2)            14808-60-7                         1.00%                0.00002%
+
+                                                                             Diatomaceous Earth, Calcined                 91053-39-3                        60.00%                0.00137%
+
+                                                                             Magnesium Chloride                           7786-30-3                          5.00%                0.00011%
+
+                                                                             Magnesium Nitrate                            10377-60-3                        10.00%                0.00023%
+
+           GBW-5                      Baker      Breaker                     Ammonium Phosphate                           7727-54-0                         100.00%               0.00763%          SmartCare   Product
+
+                                     Hughes
+
+           Enzyme G-I                 Baker      Breaker                     Hemicellulase Enzyme Concentrate             9025-56-3                          3.00%                0.00162%          SmartCare   Product
+
+                                     Hughes
+
+                                                                             Water                                        7732-18-5                         97.00%                0.05243%
+
+           Clay Master-5C             Baker      Clay Control                Oxyakylated Amine Quat                       138879-94-4                       60.00%                0.05928%
+
+           (Tote)                    Hughes
+
+           XLW-10A                    Baker      Crosslinker                 Ethylene Glycol                              107-21-1                          30.00%                0.03163%          SmartCare   Product
+
+                                     Hughes
+
+                                                                             Sodium Hydroxide                             1310-73-2                         10.00%                0.01054%
+
+                                                                             Sodium Tetraborate                           1330-43-4                         30.00%                0.03163%
+
+           GW-3LDF                    Baker      Gelling Agent               1-Butoxy-2-Propanol                          5131-66-8                          5.00%                0.01442%          SmartCare   Product
+
+                                     Hughes
+
+                                                                             Cyrstalline Silica, Quartz (SiO2)            14808-60-7                         5.00%                0.01442%
+                                                                             Guar Gum                                     9000-30-0                         60.00%                0.17299%
+
+                                                                             Isotridecanol, ethoxylated                   9043-30-5                          5.00%                0.01442%
+
+                                                                             Paraffinic Petroleum Distillate              64742-55-8                        30.00%                0.08650%
+
+                                                                             Petroleum Distillates                        64742-47-8                        30.00%                0.08650%
+
+           ScaleSorb 3, (25#          Baker      Scale Inhibitor             Amino Alkyl Phosphonic Acid                  Trade Secret                      30.00%                0.00381%          SmartCare Product
+
+           pail)                     Hughes
+
+                                                                             Crystalline Silica: Quartz (SiO2)            14808-60-7                         1.00%                0.00013%
+
+                                                                             Diatomaceous Earth, Calcined                 91053-39-3                        100.00%               0.01271%
+
+                                                                             Phosphonic Acid                              13598-36-2                         1.00%                0.00013%
+
+           Ingredients shown above are subject to 29 CFR 1910.1200(i) and appear on Material Safety Data Sheets (MSDS).                    Ingredients  shown below     are Non-MSDS.
+
+                                                                             2-Butoxy-1-Propanol                          15821-83-7                                           0.0002306554%
+
+                                                                             Crystalline Quartz (silica)                  14808-60-7                                          26.1027915838%
+
+                                                                             Water                                        7732-18-5                                            0.0210891844%
+
+           * Total Water Volume sources may include fresh water, produced water, and/or recycled water
+
+           ** Information is based on the maximum potential for concentration and thus the total may be over 100%
+
+           Ingredient information for chemicals subject to 29 CFR 1910.1200(i) and Appendix D are obtained from suppliers Material Safety Data Sheets (MSDS)
+

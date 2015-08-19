@@ -1,0 +1,141 @@
+           Hydraulic Fracturing Fluid                 Product Component                Information Disclosure
+
+                                 Fracture Date                    4/22/2011
+
+                                          State:                  Colorado
+
+                                       County:                         Weld
+
+                                  API Number:                05-123-26124
+
+                              Operator Name:                                            Encana Oil & Gas (USA) Inc.
+
+                     Well Name and Number:                                                     Aristocrat Angus 6-8-4
+
+                                    Longitude:                 -104.665573
+
+                                      Latitude:                  40.248762
+
+                         Long/Lat Projection:                       NAD83
+
+                             Production Type:                           Gas
+
+                  True Vertical Depth (TVD):                          7,765
+
+                  Total Water Volume (gal)*:                        248,514
+
+           Hydraulic Fracturing Fluid Composition:
+
+              Trade Name           Supplier              Purpose                           Ingredients                    Chemical Abstract               Maximum                Maximum               Comments
+
+                                                                                                                            Service Number               Ingredient              Ingredient
+
+                                                                                                                                  (CAS #)             Concentration           Concentration
+
+                                                                                                                                                         in Additive            in HF Fluid
+
+                                                                                                                                                       (% by mass)**          (% by mass)**
+
+           Water                  Ensign Well    Base Fluid                  Water                                                                          100.00%              79.93159%          Fresh
+
+                                  Services Inc
+
+           Frac Sand (All         BJ Services    Proppant                    Crystalline silica (quartz)                  14808-60-7                        99.90%               19.24586%
+
+           Meshes)                Company
+
+           BC-3                   BJ Services    Breaker catalyst            Non-hazardous                                                                  100.00%               0.05072%
+
+                                  Company
+
+           BF-9L                  BJ Services    Buffer                      Potassium hydroxide                          1310-58-3                         15.00%                0.00287%
+
+                                  Company
+
+           Flo-Back 40            BJ Services    Surfactant                  Amphoteric surfactant                        NA                                100.00%               0.07856%          % Proprietary
+
+                                  Company
+
+           NE-940                 BJ Services    Non-emulsifier              Methanol                                     67-56-1                           60.00%                0.01172%
+
+                                  Company
+
+                                                                             2-ethylhexanol                               104-76-7                          10.00%                0.00195%
+
+                                                                             Isopropanol                                  67-63-0                           10.00%                0.00195%
+
+                                                                             Heavy aromatic naphtha                       64742-94-5                         5.00%                0.00098%
+
+                                                                             Polyethylene glycol                          25322-68-3                         5.00%                0.00098%
+
+                                                                             EO-C7-9-iso-, C8 rich-alcohols               78330-19-5                         5.00%                0.00098%
+
+                                                                             EO-C9-11-iso-, C10-rich alcohols             78330-20-8                         5.00%                0.00098%
+
+                                                                             Naphthalene                                  91-20-3                            1.00%                0.00020%
+
+           GBW-21                 BJ Services    Breaker - Water             Magnesium Peroxide                           014452-57-4                       30.00%                0.00174%
+
+                                  Company
+
+                                                                             Magnesium oxide                              001309-48-4                       60.00%                0.00347%
+
+           GBW-5                  BJ Services    Breaker - Water             Ammonium persulfate                          7727-54-0                         100.00%               0.00309%
+
+                                  Company
+
+           GW-45LF                BJ Services    Gellant - Water             Carboxymethyl guar gum, sodium salt          39346-76-4                        50.00%                0.21799%
+
+                                  Company
+
+                                                                             Hydrotreated light distillate                64742-47-8                        100.00%               0.43597%
+
+           High Perm CRB          BJ Services    Breaker - Water             Ammonium persulphate                         7727-54-0                         100.00%               0.01196%
+
+                                  Company
+                                                                             Crystalline silica quartz                    14808-60-7                        15.00%                0.00179%
+
+           XLW-14                 BJ Services    Crosslinker                 Triethanolamine                              102-71-6                          65.00%                0.04882%
+
+                                  Company
+
+                                                                             N-propanol                                   71-23-8                           22.00%                0.01652%
+
+                                                                             N-propyl zirconate                           N.E.                              18.00%                0.01352%
+
+           Clay Treat-3C          BJ Services    Clay Control - KCl sub      Tetramethyl ammonium chloride                75-57-0                           60.00%                0.04920%
+
+                                  Company
+
+           FRW-14                 BJ Services    Friction Reducer            Hydrotreated light distillate                64742-47-8                        40.00%                0.00283%
+
+                                  Company
+
+                                                                             Ethoxylated alcohol                          68439-50-9                         5.00%                0.00035%
+
+           GS-1A                  BJ Services    Gel stabilizer              No hazardous ingredients                     N.A.                              100.00%               0.00193%                 % N.A.
+
+                                  Company
+
+           XLW- 22C               BJ Services    Crosslinker                 Triisopropanolamine                          122-20-3                           7.00%                0.00087%
+
+                                  Company
+
+                                                                             Ammonium hydroxide                           1336-21-6                          5.00%                0.00062%
+
+                                                                             Zirconium sodium hydroxy lactate             113184-20-6                       60.00%                0.00748%
+
+                                                                             complex
+
+           * Total Water Volume sources may include fresh water, produced water, and/or recycled water
+
+           ** Information is based on the maximum potential for concentration and thus the total may be over 100%
+
+           All component information listed was obtained from the suppliers Material Safety Data Sheets (MSDS). As such, the Operator is not responsible for inaccurate and/or incomplete information. Any
+
+           questions regarding the content of the MSDS should be directed to the supplier who provided it. The Occupational Safety and Health Administrations (OSHA) regulations govern the criteria for
+
+           the disclosure of this information. Please note that Federal Law protects "proprietary", "trade secret", and "confidential business information" and the criteria for how this information is reported on
+
+           an MSDS is subject to 29 CFR 1910.1200(i) and Appendix D.
+

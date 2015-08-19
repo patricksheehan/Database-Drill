@@ -1,0 +1,86 @@
+           Hydraulic       Fracturing Fluid Product                Component Information                  Disclosure
+
+                                                  Fracture Date                            1/11/2013
+
+                                                           State:                         California
+
+                                                        County:                                 Kern
+
+                                                   API Number:                        04-030-47790
+
+                                               Operator Name:            ExxonMobil Corporation
+
+                                      Well Name and Number:                              Hill 664EW
+
+                                                     Longitude:                         -119.748289
+
+                                                       Latitude:                          35.477933
+
+                                          Long/Lat Projection:                               WGS84
+
+                                              Production Type:                                    Oil
+
+                                    True Vertical Depth (TVD):                                 2,802
+
+                                    Total Water Volume (gal)*:                               268,674
+
+           Hydraulic Fracturing Fluid Composition:
+
+                     Trade Name                     Supplier                  Purpose                               Ingredients                    Chemical Abstract              Maximum                 Maximum               Comments
+
+                                                                                                                                                     Service Number               Ingredient             Ingredient
+
+                                                                                                                                                           (CAS #)             Concentration           Concentration
+
+                                                                                                                                                                                  in Additive            in HF Fluid
+
+                                                                                                                                                                                (% by mass)**          (% by mass)**
+
+           Water                                                                                                                                   7732-18-5                        100.00%               78.26519%          Density = 8.330
+
+           Sand                                   BJ Services      Proppant                           Crystalline Silica (quartz)                  14808-60-7                        99.90%               20.67631%
+
+           GW3-LDF                                BJ Services      Gellant - Water
+
+                                                                                                      Petroleum Distillate Blend                   Proprietary                       70.00%                0.31768%
+
+                                                                                                      Guar Gum                                     009000-30-0                       40.00%                0.18153%
+
+           XLW-32                                 BJ Services      Cross Linker
+
+                                                                                                      Methanol                                     67-56-1                           90.00%                0.04873%
+
+                                                                                                      Boric Oxide                                  68951-67-7                        20.00%                0.01083%
+
+           BF-7L                                  Baker Hughes     Special Buffer Solution            Potassium Carbonate                          584-08-7                          60.00%                0.09378%
+
+           ENZYME G     Conc  (GBW-12    CD)      BJ Services      Breaker - Water                    Hemicellulase Enzyme                         N.A.                             100.00%                0.00360%
+
+           KCL                                    BJ Services      Base Fluid/Salt                    Potassium Chloride                           7447-40-7                        100.00%                0.00360%
+
+           GBW-5                                  BJ Services      Breaker - Water                    Ammonium Persulfate                          7727-54-0                         99.00%                0.01552%
+
+           XCIDE-207                              Baker Hughes     Bacteria Control
+
+                                                                                                      5-chloro-2methyl-4-isothiazolin-3-one        26172-55-4                        10.00%                0.00013%
+
+                                                                                                      2-Methyl-4-isothiazoline-3-one               2682-20-4                          5.00%                0.00006%
+
+                                                                                                      Magnesium nitrate                            10377-60-3                        10.00%                0.00013%
+
+                                                                                                      Magnesium chloride                           7786-30-3                          5.00%                0.00006%
+
+                                                                                                      Diatomaceous earth, calcined                 91053-39-3                        60.00%                0.00076%
+
+                                                                                                      Crystalline silica: cristobalite             14464-46-1                         1.00%                0.00001%
+
+                                                                                                      Crystalline silica: Quartz (SiO2)            14808-60-7                         1.00%                0.00001%
+
+           ENZYME G-1                             Baker Hughes     Special Breaker                    N.A.                                         N.A.                             100.00%                0.06991%
+
+           * Total Water Volume sources may include fresh water, produced water, and/or recycled water
+
+           ** Information is based on the maximum potential for concentration and thus the total may be over 100%
+
+           Ingredient information for chemicals subject to 29 CFR 1910.1200(i) and Appendix D are obtained from suppliers Material Safety Data Sheets (MSDS)
+

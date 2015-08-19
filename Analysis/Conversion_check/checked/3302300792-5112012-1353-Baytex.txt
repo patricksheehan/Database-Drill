@@ -1,0 +1,154 @@
+           Hydraulic Fracturing             Fluid Product Component                   Information         Disclosure
+
+                            Fracture Date                5/11/2012
+
+                                    State:          North Dakota
+
+                                  County:                   Divide
+
+                            API Number:              33-023-00792
+
+                         Operator Name:      Baytex Energy USA
+
+                                                               Ltdb
+
+               Well Name and Number:          Bentson 25-36-161-98H
+
+                                                                1AP
+
+                               Longitude:             -103.338218
+
+                                 Latitude:              48.748622
+
+                    Long/Lat Projection:                    NAD83
+
+                       Production Type:                         Oil
+
+             True Vertical Depth (TVD):                      8,789
+
+             Total Water Volume (gal)*:                  1,254,863
+
+           Hydraulic Fracturing Fluid Composition:
+
+            Trade Name         Supplier           Purpose                      Ingredients                      Chemical              Maximum             Maximum             Comments
+
+                                                                                                           Abstract Service           Ingredient          Ingredient
+
+                                                                                                            Number (CAS #)          Concentratio        Concentratio
+
+                                                                                                                                    n in Additive       n in HF Fluid
+
+                                                                                                                                   (% by mass)**        (% by mass)**
+
+           Ottawa Sand         WFT          Proppant                 Crystalline Silica in the form of     14808-60-7                  100.00%           10.48020%
+
+           20/40 (2.63 sg)                                           Quartz
+
+           Ottawa Sand         WFT          Proppant                 Crystalline Silica in the form of     14808-60-7                  100.00%            1.68925%
+
+           40/70 (2.63 sg)                                           Quartz
+
+           WBK-134             WFT          Breaker                  Ammonium Persulfate                   7727-54-0                    75.00%            0.00371%
+
+           Bio-Clear 5000      WFT          Bactericide              2,2-dibromo-3-nitriloproppionamid     10222-01-2                     5.00%           0.00177%
+
+                                                                     e
+
+                                                                     Polyethylene Glycol                   25322-68-3                   50.00%            0.01766%
+
+           WXL-101LM           WFT          Crosslink Control        Distillates petroleum, hydrotreated   64742-47-8                   60.00%            0.02899%
+
+                                                                     light
+
+           WXL-105L            WFT          Crosslink Control        Boric acid                            10043-35-3                   15.00%            0.00503%
+
+                                                                     Ethylene glycol                       107-21-1                     40.00%            0.01342%
+
+                                                                     Monoethanolamine                      141-43-5                       5.00%           0.00168%
+
+           WGA-15L             WFT          Gelling Agents           Petroleum Distillates                 64742-47-8                   60.00%            0.19214%
+
+           WPB-584L            WFT          ph Adjusting Agents      Potassium Carbonate                   584-08-7                     40.00%            0.03925%
+                                                                     Potassium Hydroxide                   1310-58-3                    20.00%            0.01962%
+
+           WNE-363L            WFT          Surfactant               2-Ethylhexanol                        104-76-7                       7.00%           0.00456%
+
+                                                                     DB-964                                9003-11-6                    30.00%            0.01955%
+
+                                                                     Dodecylbenzenesulfonic acid,          26836-07-7                   15.00%            0.00978%
+
+                                                                     monoethanolamine salt
+
+                                                                     Poly(oxy-1,2-ethanediyl),             9043-30-5                      5.00%           0.00326%
+
+                                                                     a-isotridecyl-w-hydroxy-
+
+           Ingredients Listed Below  This  Line Are Part of the Fluid Composition Provided by Weatherford Which Do        Not Appear   On the Material  Safety Data Sheets   (MSDS)
+
+                                                                     2-BUTENEDIAMIDE, (E)-,                68442-77-3                                     0.00242%
+
+                                                                     N,N'-BIS[2-(4,5-DIHYDRO-2-NOR
+
+                                                                     TALL OIL
+
+                                                                     ALKYL-1H-IMIDAZOL-1-YL)ETHY
+
+                                                                     L] DERIVATIV
+
+                                                                     2-Butoxyethanol                       111-76-2                                       0.00369%
+
+                                                                     Alcohol Ethoxylate                    Mixture                                        0.00369%
+
+                                                                     Alcohols, C12-16, Ethoxylated         68551-12-2                                     0.00369%
+
+                                                                     Anionic water soluble polymer         Mixture                                        0.01007%
+
+                                                                     Arlacel 83                            8007-43-0                                      0.00320%
+
+                                                                     Carrier / Base Fluid - Water                                                        86.98417%
+
+                                                                     Choline Chloride                      67-48-1                                        0.14501%
+
+                                                                     Crystalline Silica in the form of     14808-60-7                                     0.00320%
+
+                                                                     Quartz
+
+                                                                     Deionized Water                       7732-18-5                                      0.01766%
+
+                                                                     Distilled Tall-Oil Fatty Acids        61790-12-3                                     0.00242%
+
+                                                                     Guar gum                              9000-30-0                                      0.16011%
+
+                                                                     Proprietary Ingredient                Proprietary                                    0.04321%
+
+                                                                     Propylene carbonate                   108-32-7                                       0.00048%
+
+                                                                     Quaternary ammonium                   68953-58-2                                     0.00242%
+
+                                                                     compounds, bis(hydrogenated
+
+                                                                     tallow alkyl)dimethyl, salts with
+
+                                                                     bentonite
+
+                                                                     Ulexite Powder                        1334256                                        0.02899%
+
+                                                                     Water / Inerts                        7732-18-5                                      0.02013%
+
+           * Total Water Volume sources may include fresh water, produced water, and/or recycled water                                                                                       _
+
+           ** Information is based on the maximum potential for concentration and thus the total may be over 100%
+
+           Note: For Field Development Products (products that begin with FDP), MSDS level only information has been provided.
+                                                                                                                                                                                            v2.0
+
+           All component information listed was obtained from the supplier¶s Material Safety Data Sheets (MSDS). As such, the Operator is not responsible for
+
+           inaccurate and/or incomplete information.         Any questions regarding the content of the MSDS should be directed to the supplier who provided it.                   The
+
+           Occupational Safety and Health Administration¶s (OSHA) regulations govern the criteria for the disclosure of this information. Please note that Federal
+
+           Law protects "proprietary", "trade secret", and "confidential business information" and the criteria for how this information is reported on an MSDS is
+
+           subject to 29 CFR 1910.1200(i) and Appendix D.
+

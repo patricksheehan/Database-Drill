@@ -1,0 +1,171 @@
+           Hydraulic Fracturing Fluid Product Component                                              Information Disclosure
+
+                              Job Start Date:                                     8/2/2013
+
+                               Job End Date:                                      8/9/2013
+
+                                        State:                                  Oklahoma
+
+                                      County:                                        Alfalfa
+
+                                 API Number:                         35-003-22682-00-00
+
+                             Operator Name:                 Chesapeake Operating, Inc.
+
+                    Well Name and Number:                           HOUSE 35-28-10 1H
+
+                                   Longitude:                               -98.23684713
+
+                                     Latitude:                               36.85551513
+
+                                       Datum:                                      NAD27
+
+                         Federal/Tribal Well:                                           NO
+
+                         True Vertical Depth:                                        5,229
+
+            Total Base Water Volume (gal):                                      1,804,320
+
+             Total Base Non Water Volume:                                           38,634
+
+           Hydraulic Fracturing Fluid Composition:
+
+                                                                                                      AbsCt(NrChauecAmmtSSbice#ear)rlviceC(o%nIMncAbgaedyrxndeimtmidrtaiiavuetseimnostn)*i*nMaximum
+
+                                                                                                                                              Ingredient
+
+              Trade Name             Supplier            Purpose                 Ingredients                                               Concentration in          Comments
+
+                                                                                                                                               HF Fluid
+
+                                                                                                                                            (% by mass)**
+
+           Fresh Water         CHESAPEAKE           Carrier/Base Fluid
+
+                               ENERGY
+
+                                                                        Water                         007732-18-5                100.00000           96.01834
+
+           Northern White Sand BASIC ENERGY         Proppant - Natural
+
+                                                                        Crystalline Silica (Quartz Sand,014808-60-7              100.00000            2.97575
+
+                                                                        Silicon Dioxide)
+
+           15% HCl Acid        BASIC ENERGY         Acid
+
+                                                                        Water                         007732-18-5                 85.00000            0.78163
+
+                                                                        Hydrochloric Acid             007647-01-0                 15.00000            0.13794
+
+           ALPHA 1427          BAKER HUGHES         Anti-Bacterial Agent
+
+                                                                        Water                         007732-18-5                 60.00000            0.01180
+
+                                                                        Glutaraldehyde (Pentanediol)  000111-30-8                 30.00000            0.00590
+
+                                                                        Didecyl Dimethyl Ammonium     007173-51-5                 10.00000            0.00197
+
+                                                                        Chloride
+
+                                                                        Quaternary Ammonium           068424-85-1                   7.00000           0.00138
+
+                                                                        Compound
+
+                                                                        Ethanol                       000064-17-5                   5.00000           0.00098
+
+           FR-7                BASIC ENERGY         Friction Reducer
+
+                                                                        Petroleum Distillate          064742-47-8                 35.00000            0.01538
+
+                                                                        Hydrotreated Light
+
+                                                                        Ammonium Acetate              000631-61-8                   6.00000           0.00264
+
+           I-6L                BASIC ENERGY         Iron Control Agent
+                                                                        Acetic acid                   000064-19-7                 85.00000            0.00460
+
+                                                                        Methanol (Methyl Alcohol)     000067-56-1                   5.00000           0.00027
+
+           S-10                BASIC ENERGY         Surfactant
+
+                                                                        Methanol (Methyl Alcohol)     000067-56-1                100.00000            0.00083
+
+                                                                        2-Butoxyethanol (Ethylene     000111-76-2                100.00000            0.00083
+
+                                                                        Glycol Monobutyl Ether)
+
+           CIA- LT166          BASIC ENERGY         Corrosion Inhibitor
+
+                                                                        Methanol (Methyl Alcohol)     000067-56-1                 50.00000            0.00141
+
+                                                                        Propargyl Alcohol (2-Propynol)000107-19-7                   4.00000           0.00011
+
+           SCW-5277            BAKER HUGHES         Scale Inhibitor
+
+                                                                        Phosphate Salt                NA                            5.00000           0.00064
+
+           NE - 140            BASIC ENERGY         Non-Emulsifier
+
+                                                                        Methanol (Methyl Alcohol)     000067-56-1                 30.00000            0.00024
+
+           Ingredients shown above are subject to 29 CFR 1910.1200(i) and appear on Material Safety Data Sheets (MSDS). Ingredientsshownbelow are Non-MSDS.
+
+           CIA- LT166, FR-7, I-BASIC ENERGY         Corrosion Inhibitor,
+
+           6L, NE - 140, S-10                       Friction Reducer, Iron
+
+                                                    Control Agent, Non-
+
+                                                    Emulsifier, Surfactant
+
+                                                                        Water                        007732-18-5                                      0.03902
+
+                                                                        Proprietary Surfactant       TRADE SECRET                                     0.03705
+
+                                                                        Ethoxylated Alcohol          068439-50-9                                      0.03622
+
+                                                                        Ethoxylated Oleylamine       026635-93-8                                      0.03622
+
+                                                                        Alcohols ethoxylated C12-16  068551-12-2                                      0.03622
+
+                                                                        Sorbitan Monooleate          001338-43-8                                      0.03622
+
+                                                                        Alcohol ethoxylate C-10/16 with068002-97-1                                    0.03622
+
+                                                                        6.5 EO
+
+                                                                        Polypropenamide              910644-97-2                                      0.03622
+
+                                                                        Proprietary Alcohol EthoxylateTRADE SECRET                                    0.00372
+
+                                                                        Surfactants
+
+                                                                        Proprietary n-Olefin         TRADE SECRET                                     0.00286
+
+                                                                        Diethanolamine               000111-42-2                                      0.00083
+
+                                                                        Modified Thiourea Polymer    068527-49-1                                      0.00003
+
+           SCW-5277            BAKER HUGHES         Scale Inhibitor
+
+                                                                        Proprietary Reducing Agent   TRADE SECRET                                     0.01312
+
+                                                                        Proprietary Polymer          TRADE SECRET                                     0.01312
+
+                                                                        Proprietary Salt             TRADE SECRET                                     0.01312
+
+                                                                        Proprietary Organophosphonate TRADE SECRET                                    0.01312
+
+                                                                        Water                        007732-18-5                                      0.01312
+
+                                                                        Proprietary Alkaline Salt    TRADE SECRET                                     0.01312
+
+           * Total Water Volume sources may include fresh water, produced water, and/or recycled water
+
+           ** Information is based on the maximum potential for concentration and thus the total may be over 100%
+
+           Note: For Field Development Products (products that begin with FDP), MSDS level only information has been provided.
+
+           Ingredient information for chemicals subject to 29 CFR 1910.1200(i) and Appendix D are obtained from suppliers Material Safety Data Sheets (MSDS)
+

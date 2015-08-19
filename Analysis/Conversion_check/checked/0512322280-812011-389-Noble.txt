@@ -1,0 +1,139 @@
+           Hydraulic Fracturing Fluid Product Component                                Information        Disclosure
+
+                                 Fracture Date                     8/1/2011
+
+                                          State:                         CO
+
+                                       County:                         Weld
+
+                                  API Number:                05-123-22280
+
+                              Operator Name:             Noble Energy Inc
+
+                     Well Name and Number:       Guttersen State CC 20-03
+
+                                    Longitude:                  -104.46346
+
+                                      Latitude:                   40.30247
+
+                         Long/Lat Projection:                       NAD83
+
+                             Production Type:                           Gas
+
+                  True Vertical Depth (TVD):                          7,390
+
+                  Total Water Volume (gal)*:                        119,070
+
+           Hydraulic Fracturing Fluid Composition:
+
+              Trade Name           Supplier              Purpose                           Ingredients                    Chemical Abstract               Maximum                Maximum               Comments
+
+                                                                                                                            Service Number               Ingredient              Ingredient
+
+                                                                                                                                  (CAS #)             Concentration           Concentration
+
+                                                                                                                                                         in Additive            in HF Fluid
+
+                                                                                                                                                       (% by mass)**          (% by mass)**
+
+           Water                  Operator       Carrier                     Water                                        7732-18-5                         100.00%              79.11440%
+
+           Frac Sand (All         BHI            Proppant                    Crystalline Silica (Quartz)                  14808-60-7                        100.00%              19.22796%
+
+           Meshes) [CWT]
+
+           Ferrotrol 300L         BHI            Iron Control                Citric Acid                                  77-92-9                           70.00%                0.00293%
+
+           GBW-5                  BHI            Breaker                     Ammonium Persulfate                          7727-54-0                         100.00%               0.00120%
+
+           GS-1A                  BHI            Gel Stabilizer              Non-hazardous                                -                                 100.00%               0.01196%
+
+           XLW-14                 BHI            Crosslinker                 1-Propanol                                   71-23-8                           22.00%                0.01856%
+
+                                                                             Triethanolamine                              102-71-6                          65.00%                0.05483%
+
+                                                                             n-Propyl Zirconate                           23519-77-9                        18.00%                0.01518%
+
+           Hydrochloric Acid,     BHI            Acidizing                   Hydrochloric Acid                            7647-01-0                         15.00%                0.11570%
+
+           10.1-15%
+
+                                                                             Water                                        7732-18-5                         85.00%                0.65562%
+
+           Frac-Cide 1000         BHI            Biocide                     2,2-Dibromo-3-Nitrilopropionamide            10222-01-2                        100.00%               0.00144%
+
+                                                                             Water                                        7732-18-5                          5.00%                0.00007%
+
+           GW-45LF/GVSP-1         BHI            Gellant                     Hydrotreated Light Distillate                CBI                               70.00%                0.31232%
+
+                                                                             Carboxymethyl Guar Gum, Sodium Salt          39346-76-4                        40.00%                0.17847%
+
+           High Perm CRB          BHI            Breaker                     Ammonium Persulphate                         7727-54-0                         100.00%               0.00877%
+
+                                                                             Crystalline Silica Quartz                    14808-60-7                        15.00%                0.00132%
+
+           BF-9L                  BHI            Buffer                      Potassium Hydroxide                          1310-58-3                         15.00%                0.00370%
+
+           High Perm CRB-LT       BHI            Breaker                     Ammonium Persulphate                         7727-54-0                         100.00%               0.00160%
+
+                                                                             Crystalline Silica                           7631-86-9                         10.00%                0.00016%
+
+           NE-940                 BHI            Non-emulsifier              Methanol                                     67-56-1                           60.00%                0.02108%
+
+                                                                             Isopropanol                                  67-63-0                           10.00%                0.00351%
+
+                                                                             2-Ethyl Hexanol                              104-76-7                          10.00%                0.00351%
+
+                                                                             Polyoxyethylene Glycols                      25322-68-3                         5.00%                0.00176%
+
+                                                                             Solvent naphtha (Petroleum)^ Heavy           64742-94-5                         5.00%                0.00176%
+
+                                                                             Arom.
+
+                                                                             Ethoxylated Alcohol^ Branched                78330-19-5                         5.00%                0.00176%
+                                                                             Ethoxylated Alcohol^ Branched                78330-20-8                         5.00%                0.00176%
+
+                                                                             Naphthalene                                  91-20-3                            1.00%                0.00035%
+
+                                                                             1^2^4-Trimethyl Benzene                      95-63-6                            1.00%                0.00035%
+
+           CI-31                  BHI            Corrosion Inhibitor         Methanol                                     67-56-1                            5.00%                0.00015%
+
+                                                                             Isopropanol                                  67-63-0                            5.00%                0.00015%
+
+                                                                             Formic Acid                                  64-18-6                           60.00%                0.00176%
+
+                                                                             Organic Sulfur Compound                      CBI                                5.00%                0.00015%
+
+                                                                             Quaternary Ammonium Compound                 CBI                                5.00%                0.00015%
+
+                                                                             Haloalkyl Heteropolycycle Salt               CBI                               30.00%                0.00088%
+
+                                                                             Aromatic Aldehyde                            CBI                               30.00%                0.00088%
+
+                                                                             Oxyalkylated Fatty Acid                      CBI                               30.00%                0.00088%
+
+                                                                             Benzyl Chloride                              100-44-7                           1.00%                0.00003%
+
+           Inflo 250W             BHI            Surfactant                  Surfactants                                  CBI                               80.00%                0.08996%
+
+                                                                             2-Butoxyethanol                              111-76-2                          20.00%                0.02249%
+
+                                                                             Methanol                                     67-56-1                           30.00%                0.03373%
+
+           ClayCare               BHI            Clay Control                Choline Chloride                             67-48-1                           75.00%                0.06199%
+
+                                                                             Water                                        7732-18-5                         30.00%                0.02480%
+
+           * Total Water Volume sources may include fresh water, produced water, and/or recycled water
+
+           ** Information is based on the maximum potential for concentration and thus the total may be over 100%
+
+           All component information listed was obtained from the suppliers Material Safety Data Sheets (MSDS). As such, the Operator is not responsible for inaccurate and/or incomplete information.
+
+           Any questions regarding the content of the MSDS should be directed to the supplier who provided it.        The Occupational Safety and Health Administrations (OSHA) regulations govern the criteria
+
+           for the disclosure of this information. Please note that Federal Law protects "proprietary", "trade secret", and "confidential business information" and the criteria for how this information is reported
+
+           on an MSDS is subject to 29 CFR 1910.1200(i) and Appendix D.
+

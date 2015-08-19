@@ -1,0 +1,163 @@
+           Hydraulic       Fracturing Fluid Product Component Information                                 Disclosure
+
+                                              Fracture Date                       6/30/2012
+
+                                                       State:                 North Dakota
+
+                                                     County:                        Billings
+
+                                               API Number:                    33-007-01729
+
+                                            Operator Name:         Continental Resources
+
+                                  Well Name and Number:                       Kubas 1-22H
+
+                                                 Longitude:                    -103.087944
+
+                                                    Latitude:                    47.010284
+
+                                      Long/Lat Projection:                           NAD83
+
+                                          Production Type:                                Oil
+
+                                True Vertical Depth (TVD):                           10,770
+
+                                Total Water Volume (gal)*:                        2,643,392                                                                                                                                                            Fill in all the boxes on left top for fracture date through gallons of water used.
+
+                                                                                                                                                                                                                                                       Fill in yellow boxes with appropriate values.
+
+                                                                                                                                                                                                                                                       Copy red column over to the Maximum Ingredient Conc in HF Fluid column using Paste Special (values only)
+
+           Hydraulic Fracturing Fluid Composition:
+
+                    Trade Name                   Supplier               Purpose                             Ingredients                    Chemical Abstract              Maximum                Maximum                Comments                                                                     percentage                                   gallons     SG          loadings    weight
+
+                                                                                                                                            Service Number                Ingredient             Ingredient
+
+                                                                                                                                                  (CAS #)              Concentration          Concentration
+
+                                                                                                                                                                         in Additive             in HF Fluid
+
+                                                                                                                                                                       (% by mass)**          (% by mass)**
+
+           Water                                Operator       Carrier                        Water                                       7732-18-5                         100.00%               86.40260%                                            Water                86.40260%                    0.42176%    WG-2BL                           12247         1.05                    107246.979
+
+                                                                                                                                                                                                                                                                                                         0.09207%    LDP-F-0911                        1884         1.49                    23411.7144
+
+           Frac Sand (All Meshes) [CWT]         Sanjel         Proppant                       Crystalline Silica(Quartz)                  14808-60-7                        100.00%                8.03872%                                            Frac Sand (All        8.03872%                    0.22470%    LDP-F-0311                        5895      1.1622                    57138.74946
+
+                                                                                                                                                                                                                                                       Meshes) [CWT]
+
+                                                                                                                                                                                                                                                                                                         0.08784%    NE-6                              2747        0.975                    22337.2305
+
+           Ceramic Proppant (All sizes)         Sanjel         Proppant                       Mullite                                     1302-93-8                          70.00%                3.24503%                                            Ceramic               3.24503%                    0.09283%    SCC-5L                            2747      1.0303                  23604.152394
+
+                                                                                                                                                                                                                                                       Proppant  (All
+
+                                                                                                                                                                                                                                                       sizes)
+
+                                                                                              Silica                                      7631-86-9                        30.00000%               1.39073%                                            Ceramic               1.39073%                    0.00085%    Breaker 3HT                       2750         0.94           1            215.589
+
+                                                                                                                                                                                                                                                       Proppant  (All
+
+                                                                                                                                                                                                                                                       sizes)
+
+                                                                                              Cristobalite                                14464-46-1                         30.00%                1.39073%                                            Ceramic               1.39073%                    0.00203%    BE-1                                                                            516
+
+                                                                                                                                                                                                                                                       Proppant  (All
+
+                                                                                                                                                                                                                                                       sizes)
+
+                                                                                              Rutile (TiO2)                               1317-80-2                           0.01                 0.04636%                                            Ceramic               0.04636%                    0.00085%    ISA-1                                                                           215
+
+                                                                                                                                                                                                                                                       Proppant  (All
+
+                                                                                                                                                                                                                                                       sizes)
+
+                                                                                                                                                                                                                                                                                                         0.00000%
+
+           WG-2BL                               Sanjel         Gellant                        No Hazardous Ingredients                    N/A                                0.00%                 0.00000%                                            WG-2BL                0.00000%                    0.00000%
+
+                                                                                                                                                                                                                                                                                                         0.00000%
+
+           NE-6                                 Sanjel         Non-emulsifier                 Isopropyl Alcohol                           67-63-0                            60.00%                0.05271%                                            NE-6                  0.05271%                    0.00000%
+
+                                                                                              2-Ethylhexanol                              104-76-7                           5.00%                 0.00439%                                            NE-6                  0.00439%                    0.00000%
+
+                                                                                              Diethylenetriamine                          111-40-0                           5.00%                 0.00439%                                            NE-6                  0.00439%                    8.03872%    sand                                                                      2044120
+
+                                                                                              Heavy Aromatic Solvent Naphtha              64742-94-5                         5.00%                 0.00439%                                            NE-6                  0.00439%                    4.63576%    ceramic                                                                   1178800
+
+                                                                                              Naphthalene                                 91-20-3                            1.00%                 0.00088%                                            NE-6                  0.00088%                    0.00000%
+
+                                                                                              Benzene 1-1-oxybis-, tetrapropylene         119345-03-8                        10.00%                0.00878%                                            NE-6                  0.00878%                    0.00000%
+
+                                                                                              Diethylenetriamine Alkylbenzene Sulfate     40139-72-8                         30.00%                0.02635%                                            NE-6                  0.02635%                    0.00000%
+
+                                                                                                                                                                                                                                                                                                         0.00000%
+
+           LDP-F-0311                           Sanjel         Borate Crosslinker             Boric Acid, sodium salt                     13840-56-7                         10.00%                0.02247%                                            LDP-F-0311            0.02247%                    0.00000%                                             Breaker water
+
+                                                                                              Ethylene Glycol                             107-21-1                           30.00%                0.06741%                                            LDP-F-0311            0.06741%                   86.40260%    water                         2634392                                 21970829.28
+
+                                                                                              Sodium Hydroxide                            1310-73-2                          5.00%                 0.01124%                                            LDP-F-0311            0.01124%                    0.00000%
+
+                                                                                                                                                                                                                                                                                                         0.00000%
+
+           BE-1                                 Sanjel         Biocide                        2,2-Dibromo-3-Nitrilopropionamide           10222-01-2                         97.60%                0.00198%                                            BE-1                  0.00198%                 100.00000%     total                                                total                  25428434.694754
+
+           LDP-F-0911                           Sanjel         High pH Adjuster               Sodium Hydroxide                            1310-73-2                          45.00%                0.04143%                                            LDP-F-0911            0.04143%
+
+           Breaker 3HT                          Sanjel         Break fluid                    Tert-Butyl-Hydroperoxide                    75-91-2                            70.00%                0.00059%                                            5%                    0.00059%
+
+                                                                                                                                                                                                                                                       Breaker-3HT
+
+           SCC-5L                               Sanjel         Clay Control                   Tetramethylammonium Chloride                75-57-0                            60.00%                0.05570%                                            SCC-5L                0.05570%                                                              82422.63        3362843.492088
+
+                                                                                                                                                                                                                                                                                                                                                         461
+
+           ISA-1                                Sanjel         Gel Breaker/Iron Seq.          Citric Acid                                 77-92-9                           100.00%                0.00085%                                            ISA-1                 0.00085%
+
+           * Total Water Volume sources may include fresh water, produced water, and/or recycled water
+
+           ** Information is based on the maximum potential for concentration and thus the total may be over 100%
+
+           Ingredient information for chemicals subject to 29 CFR 1910.1200(i) and Appendix D are obtained from suppliers Material Safety Data Sheets (MSDS)                                                                                                                                                         WG-2BL               10934
+
+                                                                                                                                                                                                                                                                                                                     LDP-F-0911             1527
+
+                                                                                                                                                                                                                                                                                                                     LDP-F-0311             4360
+
+                                                                                                                                                                                                                                                                                                                     NE-6                   2376
+
+                                                                                                                                                                                                                                                                                                                     SCC-5L                 2375
+
+                                                                                                                                                                                                                                                                                                                     BRK 3HT                2047
+
+                                                                                                                                                                                                                                                                                                                     BE-1                    475
+
+                                                                                                                                                                                                                                                                                                                     ISA-1                   285
+
+                                                                                                                                                                                                                                                                                                                                                0
+
+                                                                                                                                                                                                                                                                                                                                                0
+
+                                                                                                                                                                                                                                                                                                                                                0
+
+                                                                                                                                                                                                                                                                                                                                                0
+
+                                                                                                                                                                                                                                                                                                                     40/70 Mesh        105.0627      1999978.9072012
+
+                                                                                                                                                                                                                                                                                                                                         068335
+
+                                                                                                                                                                                                                                                                                                                     20/40 Mesh            894.9267467671
+
+                                                                                                                                                                                                                                                                                                                     PowerProp         401.1061        802212.2068874
+                                                                                                                                                                                                                                                                                                                                         034437
+
+                                                                                                                                                                                                                                                                                                                     BORAjel-6            34681    2343600
+
+                                                                                                                                                                                                                                                                                                                     Linear 2.5             5253
+
+                                                                                                                                                                                                                                                                                                                     Treated Water        15866
+

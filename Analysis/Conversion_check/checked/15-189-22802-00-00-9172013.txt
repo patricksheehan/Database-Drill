@@ -1,0 +1,91 @@
+           Hydraulic Fracturing Fluid Product Component                                              Information Disclosure
+
+                              Job Start Date:                                     8/7/2013
+
+                               Job End Date:                                      8/7/2013
+
+                                        State:                                     Kansas
+
+                                      County:                                     Stevens
+
+                                 API Number:                         15-189-22802-00-00
+
+                             Operator Name:                       Occidental Oil and Gas
+
+                    Well Name and Number:                               WIGGAINS 12-12
+
+                                   Longitude:                              -101.17933000
+
+                                     Latitude:                               37.01487000
+
+                                       Datum:                                      NAD27
+
+                         Federal/Tribal Well:                                          YES
+
+                         True Vertical Depth:                                        6,591
+
+            Total Base Water Volume (gal):                                          13,314
+
+             Total Base Non Water Volume:                                                 0
+
+           Hydraulic Fracturing Fluid Composition:
+
+                                                                                                      AbsCt(NrChauecAmmtSSbice#ear)rlviceC(o%nIMncAbgaedyrxndeimtmidrtaiiavuetseimnostn)*i*nMaximum
+
+                                                                                                                                              Ingredient
+
+              Trade Name             Supplier            Purpose                 Ingredients                                               Concentration in          Comments
+
+                                                                                                                                               HF Fluid
+
+                                                                                                                                            (% by mass)**
+
+           Water               N/A                  Frac Water
+
+                                                                        H2O                           N/A                        100.00000           99.12888
+
+           DF 100              DFT                  Water Foaming Agent
+
+                                                                        Ethyleneglycol MonobutylEther 111-76-2                      5.00000           0.01909
+
+                                                                        Isopropyl Alcohol             67-63-0                       5.00000           0.01909
+
+                                                                        Methyl Alcohol                67-56-1                       5.00000           0.01909
+
+           Plexbor 101         Chemplex             Oil Field Crosslinker
+
+                                                                        Potassium Metaborate          13709-94-9                  30.00000            0.03498
+
+                                                                        Ethylene Glycol               107-21-1                    10.00000            0.01166
+
+                                                                        Potassium Hydroxide           1310-58-3                     5.00000           0.00583
+
+           Plexsurf 210E       Chemplex             Flowback Aid
+
+                                                                        Methyl Alcohol                67-56-1                     30.00000            0.02750
+
+                                                                        Alcohol Alkoxylate            N/A                         20.00000            0.01834
+
+                                                                        Ethyleneglycol MonobutylEther 111-76-2                      5.00000           0.00458
+
+           Plexbreak 134       Chemplex             Non Emulsifier
+
+                                                                        Isopropyl Alcohol             67-63-0                     20.00000            0.01936
+
+           Ammonium Persulfate Chemplex             Breaker
+
+                                                                        Ammonium Persulfate           7727-54-0                   98.00000            0.01314
+
+           Plexgel Breaker HT  Chemplex             Encapsulated Breaker
+                                                                        Ammonium Persulfate           7727-54-0                   90.00000            0.00804
+
+           Ingredients shown above are subject to 29 CFR 1910.1200(i) and appear on Material Safety Data Sheets (MSDS). Ingredients shown below are Non-MSDS.
+
+           * Total Water Volume sources may include fresh water, produced water, and/or recycled water
+
+           ** Information is based on the maximum potential for concentration and thus the total may be over 100%
+
+           Note: For Field Development Products (products that begin with FDP), MSDS level only information has been provided.
+
+           Ingredient information for chemicals subject to 29 CFR 1910.1200(i) and Appendix D are obtained from suppliers Material Safety Data Sheets (MSDS)
+

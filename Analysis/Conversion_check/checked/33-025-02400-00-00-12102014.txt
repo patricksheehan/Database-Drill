@@ -1,0 +1,200 @@
+           Hydraulic Fracturing Fluid Product Component                                              Information Disclosure
+
+                              Job Start Date:                                  11/15/2014
+
+                               Job End Date:                                   11/24/2014
+
+                                        State:                               North Dakota
+
+                                      County:                                         Dunn
+
+                                 API Number:                         33-025-02400-00-00
+
+                             Operator Name:                       Occidental Oil and Gas
+
+                    Well Name and Number:               VELENCHENKO 2-4-9H-143-97
+
+                                   Longitude:                              -102.98566389
+
+                                     Latitude:                               47.24266944
+
+                                       Datum:                                      NAD83
+
+                         Federal/Tribal Well:                                           NO
+
+                         True Vertical Depth:                                       10,784
+
+            Total Base Water Volume (gal):                                      4,399,632
+
+             Total Base Non Water Volume:                                           22,749
+
+           Hydraulic Fracturing Fluid Composition:
+
+                                                                                                      AbsCt(NrChauecAmmtSSbice#ea)rrlviceC(o%nIMncAbgaedyrxndeimtmidrtaiiavuetseimnostn)*i*nMaximum
+
+                                                                                                                                              Ingredient
+
+              Trade Name             Supplier            Purpose                 Ingredients                                               Concentration in          Comments
+
+                                                                                                                                               HF Fluid
+
+                                                                                                                                            (% by mass)**
+
+           Water               Customer             Carrier
+
+                                                                        Water                         7732-18-5                  100.00000           93.72963
+
+           Econoprop, 30/50    Trican               Proppant
+
+           mesh
+
+                                                                        mullite                       1302-93-8                   85.00000            2.85163
+
+                                                                        Silica                        7631-86-9                   35.00000            1.17420
+
+                                                                        silica crystalline-cristobalite14464-46-1                 20.00000            0.67097
+
+           Econoprop 40/70     Trican               Proppant
+
+                                                                        mullite                       1302-93-8                   85.00000            1.76735
+
+                                                                        Silica                        7631-86-9                   35.00000            0.72773
+
+                                                                        silica crystalline-cristobalite14464-46-1                 20.00000            0.41585
+
+           15% HCL             Trican               Carrier
+
+                                                                        Hydrochloric acid             7647-01-0                   15.00000            0.07779
+
+           FR-15 (Friction     Trican               Friction Reducer
+
+           Reducer)
+
+                                                                        Mineral oil/ light hydrotreated64742-47-8                 25.00000            0.02232
+
+                                                                        pet. distillate
+
+                                                                        Alcohols, C12-16, ethoxylated 68551-12-2                    5.00000           0.00446
+
+                                                                        Proprietary Amide             Proprietary                   2.50000           0.00223
+
+           Bio Clear 5000      Trican               Biocide
+
+           (Biocide)
+                                                                        Polyethylene glycol           25322-68-3                  70.00000            0.01855
+
+                                                                        2,2-dibromo-3-                10222-01-2                  10.00000            0.00265
+
+                                                                        nitrilopropionamide
+
+           LSI-21 (Scale Inhibitor)Trican           Scale Inhibitor
+
+                                                                        Sodium Salt of Phosphate Ester68131-72-6                  15.00000            0.00780
+
+                                                                        Acrylic Polymer               28205-96-1                  15.00000            0.00780
+
+           WXB-15 (Borate      Trican               Crosslinker
+
+           Crosslinker)
+
+                                                                        Petroleum distillate blend    64742-96-7                  47.72000            0.00924
+
+           S-17 (Surfactant)   Trican               Surfactant
+
+                                                                        Ethylene/propylene oxide      Proprietary                   7.00000           0.00336
+
+                                                                        polymer
+
+                                                                        Amine sulfonate               Proprietary                   4.90000           0.00235
+
+                                                                        2-Ethylhexanol                104-76-7                      2.10000           0.00101
+
+                                                                        alcohols, C11-14-iso, C13-rich78330-21-9                    1.00000           0.00048
+
+                                                                        ethoxylates
+
+           pH-15 (pH Buffer)   Trican               pH Buffer
+
+                                                                        Potassium carbonate           584-08-7                    31.96000            0.00506
+
+                                                                        Potassium hydroxide           1310-58-3                   13.05000            0.00207
+
+           PH-2                Trican               pH Buffer
+
+                                                                        Acetic acid                   64-19-7                     60.00000            0.00443
+
+           FEAC-20 (Iron Control)Trican             Iron Control
+
+                                                                        Acetic acid                   64-19-7                     45.00000            0.00103
+
+                                                                        Citric acid                   77-92-9                     30.00000            0.00069
+
+           WBO-2 (Breaker)     Trican               Breaker
+
+                                                                        Sodium Persulfate             7775-27-1                  100.00000            0.00163
+
+           WBA-2 (Breaker      Trican               Breaker Aid
+
+           Accelerator)
+
+                                                                        Copper chloride               10125-13-0                  10.00000            0.00148
+
+           WBO-11              Trican               Breaker
+
+                                                                        Sodium chlorite               7758-19-2                     2.50000           0.00031
+
+           AI-7NR (Acid Inhibitor) Trican           Acid Inhibitor
+
+                                                                        Prop-2-yn-1-ol                107-19-7                      1.00000           0.00002
+
+           Ingredients shown above aresubjectto29CFR 1910.1200(i) and appear on Material Safety Data Sheets (MSDS).Ingredientsshownbelow are Non-MSDS.
+
+           N/A                 N/A                  Other Chemicals
+
+                                                                        polydimethylsiloxane         63148-62-9
+
+                                                                        ethoxylated alcohol, C11-14-iso78330-21-9
+
+                                                                        Water                        7732-18-5
+
+                                                                        guar gum                     9000-30-0
+
+                                                                        Fatty acids                  61790-12-3
+
+                                                                        Sorbitan monooleate          1338-43-8
+
+                                                                        Ulexite                      1319-33-1
+
+                                                                        Tallow alkyldimethylammonium 71011-25-1
+
+                                                                        chloride/bentonite complex
+
+                                                                        modified amidoamine          68990-47-6
+
+                                                                        Copolymer of acrylamide-     69418-26-4
+
+                                                                        AETAC
+
+                                                                        2-butoxyethanol              111-76-2
+                                                                        Sodium Chloride              7647-14-5
+
+                                                                        Trade Secret                 Proprietary
+
+                                                                        Silica, Amorphous            112926-00-8
+
+                                                                        propylene carbonate          108-32-7
+
+                                                                        methylcellulose              9004-67-5
+
+                                                                        Potassium chloride           7447-40-7
+
+                                                                        Trade Secret Ingredient      Proprietary
+
+           * Total Water Volume sources may include fresh water, produced water, and/or recycled water
+
+           ** Information is based on the maximum potential for concentration and thus the total may be over100%
+
+           Note: For Field Development Products (products that begin with FDP), MSDS level only information has been provided.
+
+           Ingredient information for chemicals subject to 29 CFR 1910.1200(i) and Appendix D are obtained from suppliers MaterialSafetyDataSheets(MSDS)
+

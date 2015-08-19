@@ -1,0 +1,68 @@
+           Hydraulic Fracturing Fluid                 Product Component                Information Disclosure
+
+                                 Fracture Date                    1/26/2012
+
+                                          State:                  Colorado
+
+                                       County:                     Garfield
+
+                                  API Number:                05-045-19822
+
+                              Operator Name:                                            Encana Oil & Gas (USA) Inc.
+
+                     Well Name and Number:                                                    SGU 8503D-36 B36 496
+
+                                    Longitude:                 -108.113536
+
+                                      Latitude:                  39.664206
+
+                         Long/Lat Projection:                       NAD83
+
+                             Production Type:                           Gas
+
+                  True Vertical Depth (TVD):                         12,092
+
+                  Total Water Volume (gal)*:                      8,435,616
+
+           Hydraulic Fracturing Fluid Composition:
+
+              Trade Name           Supplier              Purpose                           Ingredients                    Chemical Abstract               Maximum                Maximum               Comments
+
+                                                                                                                            Service Number               Ingredient              Ingredient
+
+                                                                                                                                  (CAS #)             Concentration           Concentration
+
+                                                                                                                                                         in Additive            in HF Fluid
+
+                                                                                                                                                       (% by mass)**          (% by mass)**
+
+           Water                  Encana         Base Fluid                  Water                                                                          100.00%              99.90680%          Recycled
+
+           ALPHA 1427             Baker          Biocide                     Glutaraldehyde                               111-30-8                          30.00%                0.01586%
+
+                                  Petrolite
+
+                                                                             Didecyl dimethyl ammonium chloride           7173-51-5                         10.00%                0.00529%
+
+                                                                             Quaternary ammonium compound                 68424-85-1                         5.00%                0.00264%
+
+                                                                             Ethanol                                      64-17-5                            5.00%                0.00264%
+
+           FR-5                   Quest          Friction Reducer            Sodium Chloride                              7647-14-5                         10.00%                0.00403%
+
+                                  Chemical,
+
+                                  Inc.
+
+                                                                             Ammonium chloride                            12125-02-9                         7.00%                0.00282%
+
+                                                                             Petroleum Distillates                        64742-47-8                        40.00%                0.01613%
+
+                                                                             Alcohols, C12-16, Ethoxylated                68551-12-2                         7.00%                0.00282%
+
+           * Total Water Volume sources may include fresh water, produced water, and/or recycled water
+
+           ** Information is based on the maximum potential for concentration and thus the total may be over 100%
+
+           Ingredient information for chemicals subject to 29 CFR 1910.1200(i) and Appendix D are obtained from suppliers Material Safety Data Sheets (MSDS)
+

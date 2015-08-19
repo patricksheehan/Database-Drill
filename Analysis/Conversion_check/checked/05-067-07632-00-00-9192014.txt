@@ -1,0 +1,482 @@
+           Hydraulic Fracturing Fluid Product Component                                              Information Disclosure
+
+                              Job Start Date:                                     9/4/2014
+
+                               Job End Date:                                      9/4/2014
+
+                                        State:                                   Colorado
+
+                                      County:                                     La Plata
+
+                                 API Number:                         05-067-07632-00-00
+
+                             Operator Name:           BP America Production Company
+
+                    Well Name and Number:                     Tubbs Gas Unit 32-6-9 B 1
+
+                                   Longitude:                              -107.50027200
+
+                                     Latitude:                               37.03523200
+
+                                       Datum:                                      NAD27
+
+                         Federal/Tribal Well:                                           NO
+
+                         True Vertical Depth:                                        3,250
+
+            Total Base Water Volume (gal):                                        121,728
+
+             Total Base Non Water Volume:                                            3,186
+
+           Hydraulic Fracturing Fluid Composition:
+
+                                                                                                      AbsCt(NrChauecAmmtSSbice#ear)rlviceC(o%nIMncAbgaedyrxndeitmmidrtaiiavuetseimnostn)*i*nMaximum
+
+                                                                                                                                              Ingredient
+
+              Trade Name             Supplier            Purpose                 Ingredients                                               Concentration in          Comments
+
+                                                                                                                                               HF Fluid
+
+                                                                                                                                            (% by mass)**
+
+           Hydrochloric Acid 10-Halliburton         Solvent
+
+           30%
+
+                                                                        Hydrochloric acid             7647-01-0                   30.00000            0.43820
+
+           LGC-36 UC           Halliburton          Liquid Gel Concentrate
+
+                                                                        Hydrotreated light petroleum  64742-47-8                  60.00000            0.22421
+
+                                                                        distilate
+
+           LGC-36 UC           Halliburton          Liquid Gel Concentrate
+
+                                                                        Guar gum                      9000-30-0                   60.00000            0.22421
+
+           Expedite 225        Halliburton          Resin
+
+           Component A
+
+                                                                        Epoxy resin                   Proprietary                100.00000            0.14741
+
+           BC-140              Halliburton          Crosslinker
+
+                                                                        Monoethanolamine borate       26038-87-9                  60.00000            0.09400
+
+           Expedite 225        Halliburton          Hardener
+
+           Component B
+
+                                                                        Modified cycloaliphatic amine Mixture                     60.00000            0.06701
+
+                                                                        adduct
+
+           Expedite 225        Halliburton          Hardener
+
+           Component B
+
+                                                                        Methanol                      67-56-1                     60.00000            0.06701
+
+           BC-140              Halliburton          Crosslinker
+
+                                                                        Ethylene glycol               107-21-1                    30.00000            0.04700
+           Expedite 225        Halliburton          Resin
+
+           Component A
+
+                                                                        Butyl glycidyl ether          2426-08-6                   30.00000            0.04422
+
+           LoSurf-300D         Halliburton          Non-ionic Surfactant
+
+                                                                        Ethanol                       64-17-5                     60.00000            0.04381
+
+           Expedite 225 Clean- Halliburton          Solvent
+
+           Up Solution
+
+                                                                        Ethylene glycol monobutyl ether111-76-2                   60.00000            0.03133
+
+           LoSurf-300D         Halliburton          Non-ionic Surfactant
+
+                                                                        Heavy aromatic petroleum      64742-94-5                  30.00000            0.02191
+
+                                                                        naphtha
+
+           Expedite 225        Halliburton          Resin
+
+           Component A
+
+                                                                        Butyl lactate                 138-22-7                    10.00000            0.01474
+
+           Expedite 225        Halliburton          Hardener
+
+           Component B
+
+                                                                        Phosphate ester               Proprietary                 10.00000            0.01117
+
+           Optiflo-THE         Halliburton          Breaker
+
+                                                                        Walnut hulls                  Mixture                    100.00000            0.00751
+
+           LCA-1               Halliburton          Solvent
+
+                                                                        Paraffinic solvent            Proprietary                100.00000            0.00545
+
+           Expedite 225 Clean- Halliburton          Solvent
+
+           Up Solution
+
+                                                                        Acetic acid                   64-19-7                     10.00000            0.00522
+
+           LoSurf-300D         Halliburton          Non-ionic Surfactant
+
+                                                                        Poly(oxy-1,2-ethanediyl),alpha-127087-87-0                  5.00000           0.00365
+
+                                                                        (4-nonylphenyl)-omega-
+
+                                                                        hydroxy-, branched
+
+           LoSurf-300D         Halliburton          Non-ionic Surfactant
+
+                                                                        Naphthalene                   91-20-3                       5.00000           0.00365
+
+           Optiflo-HTE         Halliburton          Breaker
+
+                                                                        Crystalline silica, quartz    14808-60-7                  30.00000            0.00225
+
+           GBW-30 BREAKER      Halliburton          Breaker
+
+                                                                        Hemicellulase enzyme          9012-54-8                   30.00000            0.00091
+
+           HAI-OS Acid InhibitorHalliburton         Corrosion Inhibitor
+
+                                                                        Methanol                      67-56-1                     60.00000            0.00073
+
+           LoSurf-300D         Halliburton          Non-ionic Surfactant
+
+                                                                        1,2,4 Trimethylbenzene        95-63-6                       1.00000           0.00073
+
+           HAI-OS Acid InhibitorHalliburton         Corrosion Inhibitor
+
+                                                                        Propargyl alcohol             107-19-7                    10.00000            0.00012
+
+           Ingredients shown above are subjectto29CFR 1910.1200(i) and appear on Material Safety Data Sheets (MSDS). Ingredientsshown below are Non-MSDS.
+
+           Fresh Water         BP                   Base Fluid
+
+                                                                        Fresh water                  7732-18-5                   100.00000           82.74297Density= 8.330
+
+           Sand - Premium      Halliburton          Proppant
+
+           Brown
+
+                                                                        Crystalline silica, quartz   14808-60-7                  100.00000           14.86449
+
+           None Indicated      Halliburton          None Indicated
+                                                                        Water                        7732-18-5                                        1.58600This Line is Part of the Fluid
+
+                                                                                                                                                             Composition Provided by
+
+                                                                                                                                                             Halliburton Which Does Not
+
+                                                                                                                                                             Appear On the Material Safety
+
+                                                                                                                                                             Data Sheets (MSDS)
+
+           None Indicated      Halliburton          None Indicated
+
+                                                                        Oxyalkylated phenolic resin  Proprietary                                      0.02191This Line is Part of the Fluid
+
+                                                                                                                                                             Composition Provided by
+
+                                                                                                                                                             Halliburton Which Does Not
+
+                                                                                                                                                             Appear On the Material Safety
+
+                                                                                                                                                             Data Sheets (MSDS)
+
+           None Indicated      Halliburton          None Indicated
+
+                                                                        Quaternary ammonium          68953-58-2                                       0.01868This Line is Part of the Fluid
+
+                                                                        compounds, bis(hydrogenated                                                          Composition Provided by
+
+                                                                        tallow alkyl) dimethyl,salts with                                                    Halliburton Which Does Not
+
+                                                                        bentonite                                                                            Appear On the Material Safety
+
+                                                                                                                                                             Data Sheets (MSDS)
+
+           None Indicated      Halliburton          None Indicated
+
+                                                                        Oxyalkylated phenolic resin  Proprietary                                      0.00730This Line is Part of the Fluid
+
+                                                                                                                                                             Composition Provided by
+
+                                                                                                                                                             Halliburton Which Does Not
+
+                                                                                                                                                             Appear On the Material Safety
+
+                                                                                                                                                             Data Sheets (MSDS)
+
+           None Indicated      Halliburton          None Indicated
+
+                                                                        Quaternary amine             Proprietary                                      0.00558This Line is Part of the Fluid
+
+                                                                                                                                                             Composition Provided by
+
+                                                                                                                                                             Halliburton Which Does Not
+
+                                                                                                                                                             Appear On the Material Safety
+
+                                                                                                                                                             Data Sheets (MSDS)
+
+           None Indicated      Halliburton          None Indicated
+
+                                                                        Organo amino silane          Proprietary                                      0.00558This Line is Part of the Fluid
+
+                                                                                                                                                             Composition Provided by
+
+                                                                                                                                                             Halliburton Which Does Not
+
+                                                                                                                                                             Appear On the Material Safety
+
+                                                                                                                                                             Data Sheets (MSDS)
+
+           None Indicated      Halliburton          None Indicated
+
+                                                                        Fatty alcohol polyglycol ether9043-30-5                                       0.00374This Line is Part of the Fluid
+
+                                                                        surfactant                                                                           Composition Provided by
+
+                                                                                                                                                             Halliburton Which Does Not
+
+                                                                                                                                                             Appear On the Material Safety
+
+                                                                                                                                                             Data Sheets (MSDS)
+
+           None Indicated      Halliburton          None Indicated
+
+                                                                        Cured acrylic resin          Proprietary                                      0.00225This Line is Part of the Fluid
+
+                                                                                                                                                             Composition Provided by
+
+                                                                                                                                                             Halliburton Which Does Not
+
+                                                                                                                                                             Appear On the Material Safety
+
+                                                                                                                                                             Data Sheets (MSDS)
+
+           None Indicated      Halliburton          None Indicated
+
+                                                                        Siloxanes and silicones,     63148-52-7                                       0.00112This Line is Part of the Fluid
+
+                                                                        dimethyl                                                                             Composition Provided by
+
+                                                                                                                                                             Halliburton Which Does Not
+
+                                                                                                                                                             Appear On the Material Safety
+
+                                                                                                                                                             Data Sheets (MSDS)
+
+           None Indicated      Halliburton          None Indicated
+                                                                        Phosphoric acid              7664-38-2                                        0.00112This Line is Part of the Fluid
+
+                                                                                                                                                             Composition Provided by
+
+                                                                                                                                                             Halliburton Which Does Not
+
+                                                                                                                                                             Appear On the Material Safety
+
+                                                                                                                                                             Data Sheets (MSDS)
+
+           None Indicated      Halliburton          None Indicated
+
+                                                                        Enzyme                       Proprietary                                      0.00038This Line is Part of the Fluid
+
+                                                                                                                                                             Composition Provided by
+
+                                                                                                                                                             Halliburton Which Does Not
+
+                                                                                                                                                             Appear On the Material Safety
+
+                                                                                                                                                             Data Sheets (MSDS)
+
+           None Indicated      Halliburton          None Indicated
+
+                                                                        Crystalline silica, quartz   14808-60-7                                       0.00037This Line is Part of the Fluid
+
+                                                                                                                                                             Composition Provided by
+
+                                                                                                                                                             Halliburton Which Does Not
+
+                                                                                                                                                             Appear On the Material Safety
+
+                                                                                                                                                             Data Sheets (MSDS)
+
+           None Indicated      Halliburton          None Indicated
+
+                                                                        Fatty acids, tall oil        Proprietary                                      0.00036This Line is Part of the Fluid
+
+                                                                                                                                                             Composition Provided by
+
+                                                                                                                                                             Halliburton Which Does Not
+
+                                                                                                                                                             Appear On the Material Safety
+
+                                                                                                                                                             Data Sheets (MSDS)
+
+           None Indicated      Halliburton          None Indicated
+
+                                                                        Alcohols, C14-C15, ethoxylated68951-67-7                                      0.00036This Line is Part of the Fluid
+
+                                                                                                                                                             Composition Provided by
+
+                                                                                                                                                             Halliburton Which Does Not
+
+                                                                                                                                                             Appear On the Material Safety
+
+                                                                                                                                                             Data Sheets (MSDS)
+
+           None Indicated      Halliburton          None Indicated
+
+                                                                        Reaction product of          68527-49-1                                       0.00036This Line is Part of the Fluid
+
+                                                                        acetophenone, formaldehyde,                                                          Composition Provided by
+
+                                                                        thiourea and oleic acid in                                                           Halliburton Which Does Not
+
+                                                                        dimethyl formamide                                                                   Appear On the Material Safety
+
+                                                                                                                                                             Data Sheets (MSDS)
+
+           None Indicated      Halliburton          None Indicated
+
+                                                                        Ethylenediamine              107-15-3                                         0.00011This Line is Part of the Fluid
+
+                                                                                                                                                             Composition Provided by
+
+                                                                                                                                                             Halliburton Which Does Not
+
+                                                                                                                                                             Appear On the Material Safety
+
+                                                                                                                                                             Data Sheets (MSDS)
+
+           None Indicated      Halliburton          None Indicated
+
+                                                                        C.I. Pigment Red 5           6410-41-9                                        0.00008This Line is Part of the Fluid
+
+                                                                                                                                                             Composition Provided by
+
+                                                                                                                                                             Halliburton Which Does Not
+
+                                                                                                                                                             Appear On the Material Safety
+
+                                                                                                                                                             Data Sheets (MSDS)
+
+           None Indicated      Halliburton          None Indicated
+
+                                                                        Cured acrylic resin          Proprietary                                      0.00008This Line is Part of the Fluid
+
+                                                                                                                                                             Composition Provided by
+
+                                                                                                                                                             Halliburton Which Does Not
+
+                                                                                                                                                             Appear On the Material Safety
+
+                                                                                                                                                             Data Sheets (MSDS)
+
+           None Indicated      Halliburton          None Indicated
+                                                                        Olefins                      Proprietary                                      0.00006This Line is Part of the Fluid
+
+                                                                                                                                                             Composition Provided by
+
+                                                                                                                                                             Halliburton Which Does Not
+
+                                                                                                                                                             Appear On the Material Safety
+
+                                                                                                                                                             Data Sheets (MSDS)
+
+           None Indicated      Halliburton          None Indicated
+
+                                                                        Olefins                      Proprietary                                      0.00006This Line is Part of the Fluid
+
+                                                                                                                                                             Composition Provided by
+
+                                                                                                                                                             Halliburton Which Does Not
+
+                                                                                                                                                             Appear On the Material Safety
+
+                                                                                                                                                             Data Sheets (MSDS)
+
+           None Indicated      Halliburton          None Indicated
+
+                                                                        FD&C Blue 1                  3844-45-9                                        0.00001This Line is Part of the Fluid
+
+                                                                                                                                                             Composition Provided by
+
+                                                                                                                                                             Halliburton Which Does Not
+
+                                                                                                                                                             Appear On the Material Safety
+
+                                                                                                                                                             Data Sheets (MSDS)
+
+           None Indicated      Halliburton          None Indicated
+
+                                                                        2-Naphthalenesulfonic acid, 6-2783-94-0                                       0.00001This Line is Part of the Fluid
+
+                                                                        hydroxy-5-[(4-sulfophenyl)azo]-,                                                     Composition Provided by
+
+                                                                        disodium salt                                                                        Halliburton Which Does Not
+
+                                                                                                                                                             Appear On the Material Safety
+
+                                                                                                                                                             Data Sheets (MSDS)
+
+           None Indicated      Halliburton          None Indicated
+
+                                                                        Olefins                      Proprietary                                      0.00001This Line is Part of the Fluid
+
+                                                                                                                                                             Composition Provided by
+
+                                                                                                                                                             Halliburton Which Does Not
+
+                                                                                                                                                             Appear On the Material Safety
+
+                                                                                                                                                             Data Sheets (MSDS)
+
+           None Indicated      Halliburton          None Indicated
+
+                                                                        Olefins                      Proprietary                                      0.00001This Line is Part of the Fluid
+
+                                                                                                                                                             Composition Provided by
+
+                                                                                                                                                             Halliburton Which Does Not
+
+                                                                                                                                                             Appear On the Material Safety
+
+                                                                                                                                                             Data Sheets (MSDS)
+
+           None Indicated      Halliburton          None Indicated
+
+                                                                        1H-Pyrazole-3-carboxylic acid,1934-21-0                                       0.00001This Line is Part of the Fluid
+
+                                                                        4,5-dihydro-5-oxo-1-(4-                                                              Composition Provided by
+
+                                                                        sulfophenyl)-4-[(4-sulfophenyl)                                                      Halliburton Which Does Not
+
+                                                                        azo]-, trisodium salt                                                                Appear On the Material Safety
+
+                                                                                                                                                             Data Sheets (MSDS)
+
+           * Total Water Volume sources may include fresh water, produced water, and/or recycled water
+
+           ** Information is based on the maximum potential for concentration and thus the total may be over 100%
+
+           Note: For Field Development Products (products that begin with FDP), MSDS level only information has been provided.
+
+           Ingredient information for chemicals subject to 29 CFR 1910.1200(i) and Appendix D are obtained from suppliers MaterialSafetyDataSheets(MSDS)
+

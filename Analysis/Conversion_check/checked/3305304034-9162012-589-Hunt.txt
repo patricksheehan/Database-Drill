@@ -1,0 +1,184 @@
+           Hydraulic Fracturing Fluid                 Product Component                Information        Disclosure
+
+                           Last Fracture Date                   09/16/2012
+
+                                          State:             North Dakota
+
+                                       County:                    Mckenzie
+
+                                  API Number:                33-053-04034
+
+                              Operator Name:                   Hunt Oil Co
+
+                     Well Name and Number:              Bear Butte 1-4-9H
+
+                                    Longitude:                  -103.55105
+
+                                      Latitude:                   47.67359
+
+                         Long/Lat Projection:                       NAD83
+
+                             Production Type:                            Oil
+
+                  True Vertical Depth (TVD):                         10,400
+
+                  Total Water Volume (gal)*:                      2,986,704
+
+           Hydraulic Fracturing    Fluid Composition:
+
+              Trade Name           Supplier              Purpose                           Ingredients                    Chemical Abstract               Maximum                Maximum               Comments
+
+                                                                                                                            Service Number               Ingredient              Ingredient
+
+                                                                                                                                  (CAS #)             Concentration           Concentration
+
+                                                                                                                                                         in Additive            in HF Fluid
+
+                                                                                                                                                       (% by mass)**          (% by mass)**
+
+           Water                    Operator     Carrier                     Water                                        7732-18-5                         100.00%              86.32585%
+
+           HCl, 5.1 - 7.5%            Baker      Acidizing                   Hydrochloric Acid                            7647-01-0                          7.50%                0.07917%
+
+                                     Hughes
+
+                                                                             Water                                        7732-18-5                         92.50%                0.97648%
+
+           Alpha 452                  Baker      Biocide                     Tetrakis(hydroxymethyl)    Phosphonium       55566-30-8                        60.00%                0.01071%
+
+                                     Hughes                                  Sulfate
+
+           High Perm CRB              Baker      Breaker                     Ammonium Persulphate                         7727-54-0                         60.00%                0.00123%          SmartCare   Product
+
+                                     Hughes
+
+                                                                             Crystalline Silica Quartz                    14808-60-7                        30.00%                0.00061%
+
+           BF-7L, Tote                Baker      Buffer                      Potassium Carbonate                          584-08-7                          60.00%                0.16428%          SmartCare   Product
+
+                                     Hughes
+
+                                                                             Potassium Hydroxide                          1310-58-3                          1.00%                0.00274%
+
+                                                                             Water                                        7732-18-5                         60.00%                0.16428%
+
+           CI-27                      Baker      Corrosion Inhibitor         Fatty Acids                                  Trade Secret                      30.00%                0.00973%          SmartCare   Product
+
+                                     Hughes
+
+                                                                             Methanol                                     67-56-1                           60.00%                0.01947%
+
+                                                                             Olefin                                       Trade Secret                       5.00%                0.00162%
+
+                                                                             Polyoxyalkylenes                             Trade Secret                      30.00%                0.00973%
+
+                                                                             Propargyl Alcohol                            107-19-7                          10.00%                0.00324%
+
+           XLW-30AG, tote             Baker      Crosslinker                 Petroleum Distillates                        64742-47-8                        60.00%                0.03077%          SmartCare   Product
+
+                                     Hughes
+
+           XLW-32, 260 gal            Baker      Crosslinker                 Boric Acid (H3BO3)                           10043-35-3                        30.00%                0.00486%
+
+           tote                      Hughes
+
+                                                                             Methanol                                     67-56-1                           60.00%                0.00972%
+                                                                             Methyl Borate                                121-43-7                          30.00%                0.00486%
+
+           FRW-14 (Small              Baker      Friction Reducer            No Hazardous Ingredients                     N.A.                              100.00%               0.01195%          SmartCare   Product
+
+           Tote)                     Hughes
+
+           GW-3LDF                    Baker      Gelling Agent               1-Butoxy-2-Propanol                          5131-66-8                          5.00%                0.01796%          SmartCare   Product
+
+                                     Hughes
+
+                                                                             Cyrstalline Silica, Quartz (SiO2)            14808-60-7                         5.00%                0.01796%
+
+                                                                             Guar Gum                                     9000-30-0                         60.00%                0.21553%
+
+                                                                             Isotridecanol, ethoxylated                   9043-30-5                          5.00%                0.01796%
+
+                                                                             Paraffinic Petroleum Distillate              64742-55-8                        30.00%                0.10777%
+
+                                                                             Petroleum Distillates                        64742-47-8                        30.00%                0.10777%
+
+           Ferrotrol 300L             Baker      Iron Control                Citric Acid                                  77-92-9                           60.00%                0.02754%          SmartCare   Product
+
+                                     Hughes
+
+           NE-945, tote               Baker      Non-emulsifier              Oxyalkylated alcohol                         Trade Secret                       5.00%                0.00428%          SmartCare   Product
+
+                                     Hughes
+
+           Sand, White, 20/40         Baker      Proppant                    Crystalline Silica (Quartz)                  14808-60-7                        100.00%               7.69678%
+
+                                     Hughes
+
+           Sand, White, 40/70         Baker      Proppant                    Crystalline Silica (Quartz)                  14808-60-7                        100.00%               2.53578%
+
+                                     Hughes
+
+           SB Prime, 20/40            Baker      Proppant                    Quartz (SiO2)                                14808-60-7                        100.00%               1.23763%
+
+                                     Hughes
+
+           Scaletrol 767W             Baker      Scale Inhibitor             Methanol                                     67-56-1                           30.00%                0.00776%
+
+                                     Hughes
+
+                                                                             Organic Phosphonate                          Trade Secret                      30.00%                0.00776%
+
+           Ingredients shown above are subject to 29 CFR 1910.1200(i) and appear on Material Safety               Data  Sheets (MSDS).     Ingredients  shown below     are Non-MSDS.
+
+                                                                             2-Butoxy-1-Propanol                          15821-83-7                                           0.0002873739%
+
+                                                                             Aliphatic Hydrocarbon                        Trade Secret                                         0.0027841615%
+
+                                                                             Alkoxylated Amine                            Trade Secret                                         0.0085584694%
+
+                                                                             Alkylene Oxide Block Polymer                 Trade Secret                                         0.0097566552%
+
+                                                                             Antifoam                                     Trade Secret                                         0.0000171169%
+
+                                                                             Boric Oxide                                  1303-86-2                                            0.0164124975%
+
+                                                                             Cured Acrylic Resin                          Trade Secret                                         0.0006135790%
+
+                                                                             Formaldehyde                                 50-00-0                                              0.0001711689%
+
+                                                                             Modified Thiourea Polymer                    68527-49-1                                           0.0035693541%
+
+                                                                             Organic Sulfonic Acid                        27176-87-0                                           0.0001711694%
+
+                                                                             Organophilic Clay                            Trade Secret                                         0.0025644527%
+
+                                                                             Oxyalkylated Alcohol                         Trade Secret                                         0.0002150854%
+
+                                                                             Polyglycol                                   25322-68-3                                           0.0016261092%
+
+                                                                             Polyglycol Ester                             Trade Secret                                         0.0000955935%
+
+                                                                             Polymeric Suspending Agent                   Trade Secret                                         0.0025644527%
+
+                                                                             Polyol Ester                                 Trade Secret                                         0.0001314411%
+
+                                                                             Polyquaternary Amine                         Trade Secret                                         0.0010270163%
+
+                                                                             Sodium Aryl Sulfonate                        119345-04-9                                          0.0001785113%
+
+                                                                             Sodium Chloride                              7647-14-5                                            0.0006491366%
+
+                                                                             Sodium Sulfate                               7757-82-6                                            0.0000089256%
+
+                                                                             Surfactant                                   Trade Secret                                         0.0005128905%
+
+                                                                             Vinyl Copolymer                              Trade Secret                                         0.0032979767%
+
+                                                                             Water                                        7732-18-5                                            0.1109989849%
+
+           * Total Water Volume sources may include fresh water, produced water, and/or recycled water
+           ** Information is based on the maximum potential for concentration and thus the total may be over 100%
+
+           Ingredient information for chemicals subject to 29 CFR 1910.1200(i) and Appendix D are obtained from suppliers Material Safety Data Sheets (MSDS)
+

@@ -1,0 +1,97 @@
+           Hydraulic Fracturing Fluid Product Component                                Information Disclosure
+
+                                 Fracture Date                     5/3/2011
+
+                                          State:                         CO
+
+                                       County:      WELD
+
+                                  API Number:                05-123-12848
+
+                              Operator Name:                   KerrMcGee
+
+                     Well Name and Number:                                                   ANDERSON-COOMBS 2
+
+                                    Longitude:                 -104.727894
+
+                                      Latitude:                  40.372119
+
+                         Long/Lat Projection:                       NAD83
+
+                             Production Type:                           Gas
+
+                  True Vertical Depth (TVD):                          7,370
+
+                  Total Water Volume (gal)*:                        124,282
+
+           Hydraulic Fracturing Fluid Composition:
+
+              Trade Name           Supplier              Purpose                           Ingredients                    Chemical Abstract              Maximum                 Maximum               Comments
+
+                                                                                                                            Service Number               Ingredient             Ingredient
+
+                                                                                                                                  (CAS #)             Concentration           Concentration
+
+                                                                                                                                                         in Additive            in HF Fluid
+
+                                                                                                                                                       (% by mass)**          (% by mass)**
+
+           Claytreat-4390         Baker          Clay Stabilization          No MSDS Ingredients                                                           100.00%                0.08704%
+
+                                  Hughes
+
+           DWP-204-1              Calfrac        pH Adjusting additive       Formic acid                                  64-18-6                           13.00%                0.00546%
+
+           DWP-212-1              Calfrac        Crosslinker                 Triethanolamine                              102-71-6                           5.00%                0.00794%
+
+                                                                             Propyl alcohol                               71-23-8                           10.00%                0.01588%
+
+                                                                             Methanol                                     67-56-1                          100.00%                0.15876%
+
+                                                                             Alkanolamine chelate of   zirconium          197980-53-3                       10.00%                0.01588%
+
+                                                                             alkoxide
+
+           DWP-213-1              Calfrac        Buffer                      Sodium hydroxide                             1310-73-2                          7.00%                0.00490%
+
+           DWP-221-1              Calfrac        Gelling Agent               Polysaccharide                                                                 60.00%                0.34059%
+
+                                                                             Iso-Alkanes/n-Alkanes                                                          60.00%                0.34059%
+
+           DWP-937-1              Calfrac        Surfactant                  Triethylene Glycol                           112-27-6                          20.00%                0.02268%
+
+                                                                             Isopropanol                                  67-63-0                           20.00%                0.02268%
+
+                                                                             Citrus Terpenes                              94266-47-4                        60.00%                0.06804%
+
+           DWP-990-1              Calfrac        Gel Breaker                 Cured Acrylic Resin                                                            32.00%                0.00290%
+
+                                                                             Ammonium Persuflate                          7727-54-0                        100.00%                0.00905%
+
+           Frac-cide 1000         Baker          Biocide                     Water                                        007732-18-5                        5.00%                0.00008%
+
+                                  Hughes
+
+                                                                             2,2-dibromo-3-nitrilopropionamide            010222-01-2                      100.00%                0.00160%
+
+           Resin Coated Sand      Calfrac        Propping Agent              P/F Novalak Resin                            9003-35-4                          5.00%                0.01522%
+
+                                                                             Hexamethylenetetramine                       1009-7-0                           0.01%                0.00003%
+
+                                                                             Crystalline silica (Quartz)                  14808-60-7                        97.00%                0.29520%
+
+           Sand (Proppant)        Calfrac        Propping Agent              Crystalline silica (Quartz)                  14808-60-7                        99.90%               19.85925%
+
+           Water                  Anadarko       Base Carrier Fluid          Water                                                                         100.00%               78.76702%
+           * Total Water Volume sources may include fresh water, produced water, and/or recycled water
+
+           ** Information is based on the maximum potential for concentration and thus the total may be over 100%
+
+           All component information listed was obtained from the suppliers Material Safety Data Sheets (MSDS). As such, the Operator is not responsible for inaccurate and/or incomplete information.
+
+           Any questions regarding the content of the MSDS should be directed to the supplier who provided it.        The Occupational Safety and Health Administrations (OSHA) regulations govern the
+
+           criteria for the disclosure of this information. Please note that Federal Law protects "proprietary", "trade secret", and "confidential business information" and the criteria for how this information is
+
+           reported on an MSDS is subject to 29 CFR 1910.1200(i) and Appendix D.
+

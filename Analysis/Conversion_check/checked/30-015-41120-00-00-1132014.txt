@@ -1,0 +1,281 @@
+           Hydraulic Fracturing Fluid Product Component                                              Information Disclosure
+
+                              Job Start Date:                                  10/13/2014
+
+                               Job End Date:                                   10/18/2014
+
+                                        State:                                New Mexico
+
+                                      County:                                         Eddy
+
+                                 API Number:                         30-015-41120-00-00
+
+                             Operator Name:                             Chevron USA Inc.
+
+                    Well Name and Number:              HAYHURST 16 25 27 STATE 1H
+
+                                   Longitude:                              -104.19643064
+
+                                     Latitude:                               32.13695204
+
+                                       Datum:                                      NAD27
+
+                         Federal/Tribal Well:                                           NO
+
+                         True Vertical Depth:                                        7,619
+
+            Total Base Water Volume (gal):                                      2,928,053
+
+             Total Base Non Water Volume:                                           40,000
+
+           Hydraulic Fracturing Fluid Composition:
+
+                                                                                                      AbsCtN(rChauecAmmtSSbice#ear)rlviceC(o%nIMncAbgaedyrxndeitmmidrtaiiavuetseimnostn)*i*nMaximum
+
+                                                                                                                                              Ingredient
+
+              Trade Name             Supplier            Purpose                 Ingredients                                               Concentration in          Comments
+
+                                                                                                                                               HF Fluid
+
+                                                                                                                                            (% by mass)**
+
+           Fresh Water         Operator             Base Fluid
+
+                                                                        Fresh Water                   7732-18-5                  100.00000           85.50684Density = 8.340
+
+           SAND - PREMIUM      Halliburton          Proppant
+
+           WHITE
+
+                                                                        Crystalline silica, quartz    14808-60-7                 100.00000           11.73599
+
+           CRC SAND            Halliburton          Proppant
+
+                                                                        Crystalline silica, quartz    14808-60-7                 100.00000            1.22764
+
+                                                                        Phenol / formaldehyde resin   9003-35-4                     5.00000           0.06138
+
+                                                                        Hexamethylenetetramine        100-97-0                      2.00000           0.02455
+
+           HYDROCHLORIC        Halliburton          Solvent
+
+           ACID 5-10%
+
+                                                                        Hydrochloric acid             7647-01-0                   10.00000            0.12314
+
+           WG-36 GELLING       Halliburton          Gelling Agent
+
+           AGENT
+
+                                                                        Guar gum                      9000-30-0                  100.00000            0.09572
+
+           LoSurf-360W         Halliburton          Surfactant
+
+                                                                        Poly(oxy-1,2-ethanediyl),     61827-42-7                  30.00000            0.02451
+
+                                                                        .alpha.-isodecyl-.omega.-
+
+                                                                        hydroxy-
+
+                                                                        Glycerine                     56-81-5                     10.00000            0.00817
+                                                                        Complex alkylamine            Confidential                  5.00000           0.00409Denise Tuck,
+
+                                                                                                                                                             Halliburton
+
+                                                                                                                                                             3000 N. Sam Houston  Pkwy
+
+                                                                                                                                                             E.,
+
+                                                                                                                                                             Houston, TX  77032
+
+                                                                                                                                                             281-871-6226
+
+           BC-140 X2           Halliburton          Initiator
+
+                                                                        Monoethanolamine borate       26038-87-9                 100.00000            0.01974
+
+                                                                        Ethylene glycol               107-21-1                    30.00000            0.00592
+
+           Cla-WebTM           Halliburton          Additive
+
+                                                                        Ammonium salt                 Confidential                60.00000            0.01497
+
+           FR-66               Halliburton          Friction Reducer
+
+                                                                        Hydrotreated light petroleum  64742-47-8                  30.00000            0.00523
+
+                                                                        distillate
+
+           OPTIFLO-II DELAYED Halliburton           Breaker
+
+           RELEASE BREAKER
+
+                                                                        Ammonium persulfate           7727-54-0                  100.00000            0.00455
+
+                                                                        Crystalline silica, quartz    14808-60-7                  10.00000            0.00046
+
+           BE-9                Halliburton          Biocide
+
+                                                                        Tributyl tetradecyl phosphonium 81741-28-8                10.00000            0.00464
+
+                                                                        chloride
+
+           LCA-1               Halliburton          Solvent
+
+                                                                        Paraffinic solvent            Confidential               100.00000            0.00285
+
+           OptiKleen-WFTM      Halliburton          Concentrate
+
+                                                                        Sodium perborate tetrahydrate 10486-00-7                 100.00000            0.00212
+
+           SP BREAKER          Halliburton          Breaker
+
+                                                                        Sodium persulfate             7775-27-1                  100.00000            0.00126
+
+           MO-67               Halliburton          pH Control Additive
+
+                                                                        Sodium hydroxide              1310-73-2                   30.00000            0.00036
+
+           K-34                Halliburton          Buffer
+
+                                                                        Sodium bicarbonate            144-55-8                   100.00000            0.00018
+
+           Ingredients shownabove are subjectto29CFR 1910.1200(i) and appear on Material Safety Data Sheets (MSDS). Ingredientsshownbelow are Non-MSDS.
+
+                                                    Other Ingredient(s)
+
+                                                                        Water                        7732-18-5                                        1.39207
+
+                                                    Other Ingredient(s)
+
+                                                                        Polyacrylamide copolymer     Confidential                                     0.00523
+
+                                                    Other Ingredient(s)
+
+                                                                        Bentonite, benzyl(hydrogenated121888-68-4                                     0.00479
+
+                                                                        tallow alkyl) dimethylammonium
+
+                                                                        stearate complex
+
+                                                    Other Ingredient(s)
+
+                                                                        Sodium chloride              7647-14-5                                        0.00213
+
+                                                    Other Ingredient(s)
+
+                                                                        Cured acrylic resin          Confidential                                     0.00137
+
+                                                    Other Ingredient(s)
+
+                                                                        Quaternary amine             Confidential                                     0.00125
+
+                                                    Other Ingredient(s)
+
+                                                                        Surfactant mixture           Confidential                                     0.00096
+                                                    OtherIngredient(s)
+
+                                                                        Surfactant mixture           Confidential                                     0.00096
+
+                                                    OtherIngredient(s)
+
+                                                                        Silica gel                   112926-00-8                                      0.00096
+
+                                                    OtherIngredient(s)
+
+                                                                        Fatty acid tall oil amide    Confidential                                     0.00087
+
+                                                    OtherIngredient(s)
+
+                                                                        Alcohols, C12-16, ethoxylated68551-12-2                                       0.00087
+
+                                                    OtherIngredient(s)
+
+                                                                        Ammonium chloride            12125-02-9                                       0.00087
+
+                                                    OtherIngredient(s)
+
+                                                                        Alkane                       Confidential                                     0.00082
+
+                                                    OtherIngredient(s)
+
+                                                                        Quaternary amine             Confidential                                     0.00025
+
+                                                    OtherIngredient(s)
+
+                                                                        Sorbitan, mono-9-            1338-43-8                                        0.00017
+
+                                                                        octadecenoate, (Z)
+
+                                                    OtherIngredient(s)
+
+                                                                        Sorbitan monooleate          9005-65-6                                        0.00017
+
+                                                                        polyoxyethylene derivative
+
+                                                    OtherIngredient(s)
+
+                                                                        Crystalline Silica, Quartz   14808-60-7                                       0.00010
+
+                                                    OtherIngredient(s)
+
+                                                                        Amine salts                  Confidential                                     0.00002
+
+                                                    OtherIngredient(s)
+
+                                                                        Quaternary amine             Confidential                                     0.00002
+
+                                                    OtherIngredient(s)
+
+                                                                        Amine salts                  Confidential                                     0.00002
+
+                                                    OtherIngredient(s)
+
+                                                                        2,7-Naphthalenedisulfonic acid,915-67-3                                       0.00002
+
+                                                                        3-hydroxy-4-[(4-sulfor-1-
+
+                                                                        naphthalenyl) azo] -, trisodium
+
+                                                                        salt
+
+                                                    OtherIngredient(s)
+
+                                                                        Nitrotriacetic acid, trisodium salt5064-31-3                                  0.00001
+
+                                                                        monohydrate
+
+                                                    OtherIngredient(s)
+
+                                                                        Sodium hydroxide             1310-73-2                                        0.00001
+
+                                                    OtherIngredient(s)
+
+                                                                        Sodium glycollate            2836-32-0                                        0.00001
+
+                                                    OtherIngredient(s)
+
+                                                                        Ethylenediaminetetraacetic acid, 64-02-8                                      0.00001
+
+                                                                        tetrasodium salt
+
+                                                    OtherIngredient(s)
+
+                                                                        Sodium bicarbonate           144-55-8                                         0.00001
+
+                                                    OtherIngredient(s)
+
+                                                                        Hydrogen peroxide            7722-84-1                                        0.00001
+
+                                                    OtherIngredient(s)
+                                                                        Sodium sulfate               7757-82-6                                        0.00000
+
+           * Total Water Volume sources may include fresh water, produced water, and/or recycled water
+
+           ** Information is based on the maximum potential for concentration and thus the total may be over 100%
+
+           Note: For Field Development Products (products that begin with FDP), MSDS level only information has been provided.
+
+           Ingredient information for chemicals subject to 29 CFR 1910.1200(i) and Appendix D are obtained from suppliers Material Safety Data Sheets (MSDS)
+

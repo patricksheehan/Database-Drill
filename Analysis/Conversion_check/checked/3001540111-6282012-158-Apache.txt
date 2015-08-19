@@ -1,0 +1,123 @@
+           Hydraulic Fracturing Fluid                 Product Component                Information Disclosure
+
+                           Last Fracture Date                   06/28/2012
+
+                                          State:               New Mexico
+
+                                       County:                        Eddy
+
+                                  API Number:                30-015-40111
+
+                              Operator Name:                 Apache Corp
+
+                     Well Name and Number:                                                    Washington 33 State 59
+
+                                    Longitude:                  -104.18317
+
+                                      Latitude:                   32.78693
+
+                         Long/Lat Projection:                       NAD27
+
+                             Production Type:                            Oil
+
+                  True Vertical Depth (TVD):                          4,005
+
+                  Total Water Volume (gal)*:                        171,486
+
+           Hydraulic Fracturing    Fluid Composition:
+
+              Trade Name           Supplier              Purpose                           Ingredients                    Chemical Abstract               Maximum                Maximum               Comments
+
+                                                                                                                            Service Number               Ingredient              Ingredient
+
+                                                                                                                                  (CAS #)             Concentration           Concentration
+
+                                                                                                                                                         in Additive            in HF Fluid
+
+                                                                                                                                                       (% by mass)**          (% by mass)**
+
+           Water                    Operator     Carrier                     Water                                        7732-18-5                         100.00%              86.29469%
+
+           Superset-W, 330 gl         Baker      Activator                   Methanol                                     67-56-1                           50.00%                0.02267%
+
+           tote                      Hughes
+
+                                                                             Poly (Oxyethylene) Nonylphenol Ether         9016-45-9                         50.00%                0.02267%
+
+           Alpha 125                  Baker      Biocide                     Glutaraldehyde                               111-30-8                          30.00%                0.00542%          SmartCare   Product
+
+                                     Hughes
+
+           GBW-5                      Baker      Breaker                     Ammonium Persulfate                          7727-54-0                         100.00%               0.00362%          SmartCare   Product
+
+                                     Hughes
+
+           GBW-15L                    Baker      Breaker                     Enzyme solution                              Trade Secret                      100.00%               0.04915%          SmartCare   Product
+
+                                     Hughes
+
+           ClayCare, tote             Baker      Clay Control                Choline Chloride                             67-48-1                           75.00%                0.02800%          SmartCare   Product
+
+                                     Hughes
+
+                                                                             Water                                        7732-18-5                         30.00%                0.01120%
+
+           XLW-10A                    Baker      Crosslinker                 Ethylene Glycol                              107-21-1                          30.00%                0.03460%          SmartCare   Product
+
+                                     Hughes
+
+                                                                             Sodium Hydroxide                             1310-73-2                         10.00%                0.01153%
+
+                                                                             Sodium Tetraborate                           1330-43-4                         30.00%                0.03460%
+
+           GW-4LDF                    Baker      Gelling Agent               Guar Gum                                     9000-30-0                         60.00%                0.27967%          SmartCare   Product
+
+                                     Hughes
+
+                                                                             Paraffinic Petroleum Distillate              64742-55-8                        60.00%                0.27967%
+
+                                                                             Petroleum Distillate                         64742-47-8                        60.00%                0.27967%
+
+           NE-35, 330 gl tote         Baker      Non-emulsifier              Mixture of Surfactants                       Trade Secret                      50.00%                0.03549%
+
+                                     Hughes
+
+                                                                             Propylene Glycol                             57-55-6                           30.00%                0.02129%
+           Sand, White, 16/30         Baker      Proppant                    Crystalline Silica (Quartz)                  14808-60-7                        100.00%               9.95836%
+
+                                     Hughes
+
+           Super LC, 16/30            Baker      Proppant                    Hexamethylenetetramine                       1009-7-0                           0.01%                0.00024%
+
+                                     Hughes
+
+                                                                             P/F Resin                                    9003-35-4                          5.00%                0.12071%
+
+                                                                             Silicon Dioxide (Silica Sand)                14808-60-7                        97.00%                2.34172%
+
+           Scaletrol 767W, 330        Baker      Scale Inhibitor             Methanol                                     67-56-1                           30.00%                0.01187%
+
+           gl tote                   Hughes
+
+                                                                             Organic Phosphonate                          Trade Secret                      30.00%                0.01187%
+
+           InFlo 250G, 330 gl         Baker      Surfactant                  Methanol                                     67-56-1                           30.00%                0.02249%
+
+           tote                      Hughes
+
+                                                                             Mixture of Surfactants                       Trade Secret                      50.00%                0.03749%
+
+                                                                             Water                                        7732-18-5                         30.00%                0.02249%
+
+           Ingredients shown above are subject to 29 CFR 1910.1200(i) and appear on Material Safety Data Sheets (MSDS).                    Ingredients  shown below     are Non-MSDS.
+
+                                                                             Methanol                                     67-56-1                                              0.0000451651%
+
+                                                                             Water                                        7732-18-5                                            0.0587730721%
+
+           * Total Water Volume sources may include fresh water, produced water, and/or recycled water
+
+           ** Information is based on the maximum potential for concentration and thus the total may be over 100%
+
+           Ingredient information for chemicals subject to 29 CFR 1910.1200(i) and Appendix D are obtained from suppliers Material Safety Data Sheets (MSDS)
+
